@@ -4,3 +4,4 @@ venv
 data
 embeddings
 viz/embeddings.json
+.vscode
