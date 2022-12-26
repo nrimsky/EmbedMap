@@ -14,3 +14,4 @@ Generate a 3D map of links based on their embeddings using OpenAI's embedding AP
 
 ### Example
 - You can see an example map at `example_viz/index.html` which was generated from some Wikipedia pages (the source data and embeddings can be found in `test_data` and `test_embeddings`)
+- The `example_viz` folder is also publicly hosted so you can test interacting with the map at https://example-embed-map.netlify.app/ 
