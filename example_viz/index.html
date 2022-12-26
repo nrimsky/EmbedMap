@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="https://unpkg.com/d3-3d/build/d3-3d.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+
+<body style="display: flex; align-items: center; justify-content: center;">
+    <svg></svg>
+    <script>
+        var width = window.innerWidth * 0.95;
+        var height = window.innerHeight * 0.95;
+        d3.select('svg').attr('width', width).attr('height', height);
+        var g = d3.select('g').attr('transform', 'translate(' + (width / 2) + ',' + (height / 2) + ')');
+        var scale = Math.min(width, height) / 2;
+
+        var beta = 0, alpha = 0
+        var key = function (d) { return d.id; }
+        var startAngle = Math.PI / 4;
+        var svg = d3.select('svg').call(d3.drag().on('drag', dragged).on('start', dragStart).on('end', dragEnd)).append('g');
+        d3.select('svg').call(d3.zoom().on('zoom', zoomed).scaleExtent([0.5, 5]));
+        var color = d3.scaleOrdinal(d3.schemeCategory20);
+        var mx, my, mouseX, mouseY;
+        var scatter = [];
+
+        var point3d = d3._3d()
+            .x(function (d) { return d.x; })
+            .y(function (d) { return d.y; })
+            .z(function (d) { return d.z; })
+            .origin([width / 2, height / 2])  
+            .rotateY(startAngle)
+            .rotateX(-startAngle)
+            .scale(scale)  
+
+
+        function processData(data, tt) {
+
+            var points = svg.selectAll('circle').data(data, key);
+
+            points
+                .enter()
+                .append('circle')
+                .attr('class', '_3d')
+                .style('cursor', 'pointer') 
+                .attr('opacity', 0)
+                .attr('cx', posPointX)
+                .attr('cy', posPointY)
+                .on('click', function(d) { window.location.href = d.link; })
+                .merge(points)
+                .transition().duration(tt)
+                .attr('r', 10)
+                .attr('stroke', function (d) { return d3.color(color(d.id)).darker(3); })
+                .attr('fill', function (d) { return color(d.id); })
+                .attr('opacity', 0.75)
+                .attr('cx', posPointX)
+                .attr('cy', posPointY);
+
+            points.exit().remove();
+
+            var labels = svg.selectAll('.label').data(data, key);
+
+            labels
+                .enter()
+                .append('text')
+                .attr('opacity', 0)
+                .attr('class', 'label')
+                .text(function (d) { return d.name; })
+                .attr('x', function (d) { return d.projected.x; })
+                .attr('y', function (d) { return d.projected.y; })
+                .merge(labels)
+                .transition().duration(tt)
+                .attr('opacity', 100)
+                .attr('x', function (d) { return d.projected.x; })
+                .attr('y', function (d) { return d.projected.y; });
+
+            labels.exit().remove();
+
+            d3.selectAll('._3d').sort(d3._3d().sort);
+        }
+
+        function posPointX(d) {
+            return d.projected.x;
+        }
+
+        function posPointY(d) {
+            return d.projected.y;
+        }
+
+        function init() {
+            fetch("embeddings.json").then(p => p.json()).then(json => {
+                var cnt = 0;
+                for (var e of json["embeddings"]) {
+                    var embedding = e["embedding"];
+                    scatter.push({ x: embedding[0], y: embedding[1], z: embedding[2], id: 'point_' + cnt++, name: e.name, link: e.link });
+                }
+                processData(point3d(scatter), 1000);
+
+            })
+        }
+
+        function dragStart() {
+            mx = d3.event.x;
+            my = d3.event.y;
+        }
+
+        function dragged() {
+            mouseX = mouseX || 0;
+            mouseY = mouseY || 0;
+            beta = (d3.event.x - mx + mouseX) * Math.PI / 230;
+            alpha = (d3.event.y - my + mouseY) * Math.PI / 230 * (-1);
+            var data = point3d.rotateY(beta + startAngle).rotateX(alpha - startAngle)(scatter);
+            processData(data, 0);
+        }
+
+        function dragEnd() {
+            mouseX = d3.event.x - mx + mouseX;
+            mouseY = d3.event.y - my + mouseY;
+        }
+
+        function zoomed() {
+            var newScale = d3.event.transform.k;
+            point3d.scale(newScale * scale);
+            var data = point3d(scatter);
+            processData(data, 0);
+        }
+
+        d3.selectAll('button').on('click', init);
+
+        init();
+    </script>
+</body>

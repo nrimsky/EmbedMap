@@ -1,3 +1,6 @@
 key.txt
 __pycache__
 venv
+data
+embeddings
+viz/embeddings.json

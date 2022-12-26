@@ -1,0 +1,1541 @@
+https://en.wikipedia.org/wiki/Potato
+Potato - Wikipedia
+Potato
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Staple food, root tuber, starchy
+For other uses, see Potato (disambiguation).
+Potato
+Potato cultivars appear in a variety of colors, shapes, and sizes.
+Scientific classification
+Kingdom:
+Plantae
+Clade:
+Tracheophytes
+Clade:
+Angiosperms
+Clade:
+Eudicots
+Clade:
+Asterids
+Order:
+Solanales
+Family:
+Solanaceae
+Genus:
+Solanum
+Species:
+S. tuberosum
+Binomial name
+Solanum tuberosumL.
+The potato is a starchy food, a tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas. The plant is a perennial in the nightshade family Solanaceae.[2]
+Wild potato species can be found from the southern United States to southern Chile.[3] The potato was originally believed to have been domesticated by Native Americans independently in multiple locations,[4] but later genetic studies traced a single origin, in the area of present-day southern Peru and extreme northwestern Bolivia. Potatoes were domesticated there approximately 7,000–10,000 years ago, from a species in the Solanum brevicaule complex.[5][6][7] In the Andes region of South America, where the species is indigenous, some close relatives of the potato are cultivated.
+Potatoes were introduced to Europe from the Americas by the Spanish in the second half of the 16th century. Today they are a staple food in many parts of the world and an integral part of much of the world's food supply. As of 2014[update], potatoes were the world's fourth-largest food crop after maize (corn), wheat, and rice.[8] Following millennia of selective breeding, there are now over 5,000 different types of potatoes.[6] Over 99% of potatoes presently cultivated worldwide descend from varieties that originated in the lowlands of south-central Chile.[9] The importance of the potato as a food source and culinary ingredient varies by region and is still changing. It remains an essential crop in Europe, especially Northern and Eastern Europe, where per capita production is still the highest in the world, while the most rapid expansion in production since 2000 has occurred in southern and eastern Asia, with China and India leading the world in overall production as of 2018[update].
+Like the tomato, the potato is a nightshade in the genus Solanum, and the vegetative and fruiting parts of the potato contain the toxin solanine which is dangerous for human consumption. Normal potato tubers that have been grown and stored properly produce glycoalkaloids in amounts small enough to be negligible to human health, but, if green sections of the plant (namely sprouts and skins) are exposed to light, the tuber can accumulate a high enough concentration of glycoalkaloids to affect human health.[10] The discovery of acrylamides in starchy foods in 2002 led to international health concerns, but subsequent high-quality evidence showed acrylamide is not likely to cause cancer in humans.[11][12]
+Contents
+1 Etymology
+2 Biology
+2.1 Taxonomic synonyms
+2.2 Description
+2.3 Genetics
+2.4 Varieties
+2.5 Pigmentation
+2.6 Genetically engineered potatoes
+2.7 Biosynthesis of starch
+3 History
+4 Production
+5 Nutrition
+5.1 Comparison to other staple foods
+5.2 Toxicity
+6 Growth and cultivation
+6.1 Seed potatoes
+6.2 Phases of growth
+6.3 Challenges
+6.4 Pests and disease
+6.5 Harvest
+6.6 Storage
+6.7 Yield
+6.8 Climate change
+7 Uses
+7.1 Other than for eating
+7.2 Latin America
+7.3 Europe
+7.4 North America
+7.5 South Asia
+7.6 East Asia
+8 Cultural significance
+8.1 In art
+8.2 In popular culture
+9 See also
+10 References
+10.1 Citations
+10.2 General and cited sources
+11 Further reading
+12 External links
+Etymology
+"Spud" redirects here. For other uses, see Spud (disambiguation).
+The English word potato comes from Spanish patata (the name used in Spain). The Royal Spanish Academy says the Spanish word is a hybrid of the Taíno batata ('sweet potato') and the Quechua papa ('potato').[13][14] The name originally referred to the sweet potato although the two plants are not closely related. The 16th-century English herbalist John Gerard referred to sweet potatoes as common potatoes, and used the terms bastard potatoes and Virginia potatoes for the species now known as potato.[15] In many of the chronicles detailing agriculture and plants, no distinction is made between the two.[16] Potatoes are occasionally referred to as Irish potatoes or white potatoes in the United States, to distinguish them from sweet potatoes.[15]
+The name spud for a potato comes from the digging of soil (or a hole) prior to the planting of potatoes. The word has an unknown origin and was originally (c. 1440) used as a term for a short knife or dagger, probably related to the Latin spad-, a word root meaning "sword"; compare Spanish espada, English "spade", and spadroon. It subsequently transferred over to a variety of digging tools. Around 1845, the name transferred to the tuber itself, the first record of this usage being in New Zealand English.[17] The origin of the word spud has erroneously been attributed to an 18th-century activist group dedicated to keeping the potato out of Britain, calling itself the Society for the Prevention of Unwholesome Diet. It was Mario Pei's 1949 The Story of Language that can be blamed for the word's false origin. Pei wrote "the potato, for its part, was in disrepute some centuries ago. Some Englishmen who did not fancy potatoes formed a Society for the Prevention of Unwholesome Diet. The initials of the main words in this title gave rise to spud." Like many other claimed pre-20th century acronymic origins, this is false, and there is no evidence that a Society for the Prevention of Unwholesome Diet ever existed.[18][14]
+At least seven languages—Afrikaans, Dutch, French, (West) Frisian, Hebrew, Persian and some variants of German—are known to use a term for "potato" that translates roughly (or literally) into English as "earth apple" or "ground apple".[19][20]
+Biology
+Taxonomic synonyms
+List
+Battata tuberosa (L. Hill)
+Larnax sylvarum subsp. novogranatensis (N.W.Sawyer)
+Lycopersicon tuberosum (L. Mill.)
+Parmentiera edulis (Raf.)
+Solanum andigenum (Juz. & Bukasov)
+Solanum andigenum convar. acutifolium (Lechn.)
+Solanum andigenum convar. adpressipilosum (Lechn.)
+Solanum andigenum f. alccai-huarmi (Bukasov & Lechn.)
+Solanum andigenum f. ancacc-maquin (Bukasov & Lechn.)
+Solanum andigenum f. arcuatum (Bukasov & Lechn.)
+Solanum andigenum subsp. argentinicum (Lechn.)
+Solanum andigenum subsp. australiperuvianum (Lechn.)
+Solanum andigenum subsp. aya-papa (Bukasov & Lechn.)
+Solanum andigenum var. aymaranum (Bukasov & Lechn.)
+Solanum andigenum f. basiscopum (Bukasov & Lechn.)
+Solanum andigenum f. bifidum (Bukasov & Lechn.)
+Solanum andigenum var. bolivianum (Bukasov & Lechn.)
+Solanum andigenum subsp. bolivianum (Lechn.)
+Solanum andigenum convar. brachistylum (Lechn.)
+Solanum andigenum convar. brevicalyces (Lechn.)
+Solanum andigenum var. brevicalyx (Bukasov & Lechn.)
+Solanum andigenum convar. brevipilosum (Lechn.)
+Solanum andigenum f. caesium (Bukasov & Lechn.)
+Solanum andigenum f. caiceda (Bukasov)
+Solanum andigenum var. carhua (Vargas)
+Solanum andigenum f. ccompetillo (Bukasov & Lechn.)
+Solanum andigenum f. ccompis (Bukasov & Lechn.)
+Solanum andigenum var. ccusi (Bukasov & Lechn.)
+Solanum andigenum subsp. centraliperuvianum (Lechn.)
+Solanum andigenum f. cevallosii (Bukasov & Lechn.)
+Solanum andigenum f. chalcoense (Bukasov)
+Solanum andigenum f. chimaco (Bukasov & Lechn.)
+Solanum andigenum var. ckello-huaccoto (Bukasov & Lechn.)
+Solanum andigenum f. coeruleum (Lechn. ex Bukasov)
+Solanum andigenum var. colombianum (Bukasov)
+Solanum andigenum subsp. colombianum ((Bukasov) Lechn.)
+Solanum andigenum f. conicicolumnatum (Bukasov & Lechn.)
+Solanum andigenum f. cryptostylum (Bukasov & Lechn.)
+Solanum andigenum convar. curtibaccatum (Lechn.)
+Solanum andigenum var. cuzcoense (Bukasov & Lechn.)
+Solanum andigenum var. digitotuberosum (Vargas)
+Solanum andigenum f. dilatatum (Bukasov & Lechn.)
+Solanum andigenum f. discolor (Bukasov & Lechn.)
+Solanum andigenum subsp. ecuatorianum (Lechn.)
+Solanum andigenum convar. elongatibaccatum (Lechn.)
+Solanum andigenum f. elongatipedicellatum (Lechn.)
+Solanum andigenum f. globosum (Bukasov & Lechn.)
+Solanum andigenum var. grauense (Vargas)
+Solanum andigenum f. guatemalense (Bukasov)
+Solanum andigenum var. hederiforme (Bukasov)
+Solanum andigenum var. herrerae (Bukasov & Lechn.)
+Solanum andigenum f. huaca-layra (Bukasov & Lechn.)
+Solanum andigenum var. huairuru (Bukasov & Lechn.)
+Solanum andigenum f. huallata (Bukasov & Lechn.)
+Solanum andigenum f. huaman-uma (Bukasov & Lechn.)
+Solanum andigenum var. imilla (Bukasov & Lechn.)
+Solanum andigenum f. incrassatum (Bukasov & Lechn.)
+Solanum andigenum var. juninum (Bukasov)
+Solanum andigenum f. lanciacuminatum (Bukasov & Lechn.)
+Solanum andigenum f. lapazense (Bukasov & Lechn.)
+Solanum andigenum var. latius (Bukasov & Lechn.)
+Solanum andigenum f. lecke-umo (Bukasov & Lechn.)
+Solanum andigenum f. lilacinoflorum (Bukasov)
+Solanum andigenum f. lisarassa (Bukasov)
+Solanum andigenum f. llutuc-runtum (Lechn. ex Bukasov)
+Solanum andigenum convar. longiacuminatum (Lechn.)
+Solanum andigenum var. longibaccatum (Bukasov & Lechn.)
+Solanum andigenum convar. macron (Lechn.)
+Solanum andigenum f. magnicorollatum (Bukasov & Lechn.)
+Solanum andigenum var. mexicanum (Bukasov)
+Solanum andigenum f. microstigma (Bukasov & Lechn.)
+Solanum andigenum convar. microstigmatum (Lechn.)
+Solanum andigenum f. nodosum (Bukasov)
+Solanum andigenum convar. nudiculum (Lechn.)
+Solanum andigenum convar. obtusiacuminatum (Lechn.)
+Solanum andigenum f. ovatibaccatum (Bukasov & Lechn.)
+Solanum andigenum f. pacus (Lechn. ex Bukasov)
+Solanum andigenum f. pallidum (Bukasov & Lechn.)
+Solanum andigenum var. platyantherum (Bukasov & Lechn.)
+Solanum andigenum f. pomacanchicum (Bukasov & Lechn.)
+Solanum andigenum f. ppacc-nacha (Bukasov & Lechn.)
+Solanum andigenum f. ppaqui (Bukasov & Lechn.)
+Solanum andigenum convar. puca-mata (Lechn.)
+Solanum andigenum var. quechuanum (Bukasov & Lechn.)
+Solanum andigenum var. sihuanum (Bukasov & Lechn.)
+Solanum andigenum var. socco-huaccoto (Bukasov & Lechn.)
+Solanum andigenum convar. stenon (Lechn.)
+Solanum andigenum var. stenophyllum (Bukasov & Lechn.)
+Solanum andigenum f. sunchchu (Bukasov & Lechn.)
+Solanum andigenum subsp. tarmense (Bukasov & Lechn.)
+Solanum andigenum f. tenue (Bukasov & Lechn.)
+Solanum andigenum f. tiahuanacense (Bukasov & Lechn.)
+Solanum andigenum convar. titicacense (Lechn.)
+Solanum andigenum f. tocanum (Bukasov)
+Solanum andigenum f. tolucanum (Bukasov)
+Solanum andigenum f. uncuna (Bukasov & Lechn.)
+Solanum apurimacense (Vargas)
+Solanum aracatscha (Besser)
+Solanum aracc-papa (Juz. ex Rybin)
+Solanum ascasabii (Hawkes)
+Solanum boyacense (Juz. & Bukasov)
+Solanum caniarense (Juz. & Bukasov)
+Solanum cardenasii (Hawkes)
+Solanum cayeuxi (Berthault)
+Solanum chariense (A.Chev.)
+Solanum chaucha (Juz. & Bukasov)
+Solanum chaucha var. ccoe-sulla (Ochoa)
+Solanum chaucha var. ckati (Ochoa)
+Solanum chaucha var. khoyllu (Ochoa)
+Solanum chaucha var. puca-suitu (Ochoa)
+Solanum chaucha f. purpureum (Hawkes)
+Solanum chaucha f. roseum (Hawkes)
+Solanum chaucha var. surimana (Ochoa)
+Solanum chiloense ((A.DC.) Berthault)
+Solanum chilotanum (Hawkes)
+Solanum chilotanum var. angustifurcatum (Lechn.)
+Solanum chilotanum f. magnicorollatum (Lechn.)
+Solanum chilotanum f. parvicorollatum (Lechn.)
+Solanum chilotanum var. talukdarii (Lechn.)
+Solanum chocclo (Bukasov & Lechn.)
+Solanum churuspi (Hawkes)
+Solanum coeruleiflorum (Hawkes)
+Solanum cultum ((A.DC.) Berthault)
+Solanum diemii (E.Brucher)
+Solanum dubium (E.H.L.Krause)
+Solanum erlansonii (Anon.)
+Solanum esculentum (Neck.)
+Solanum estradea (L.E.López)
+Solanum goniocalyx (Juz. & Bukasov)
+Solanum goniocalyx var. caeruleum (Vargas)
+Solanum herrerae (Juz.)
+Solanum hygrothermicum (Ochoa)
+Solanum kesselbrenneri (Juz. & Bukasov)
+Solanum leptostigma (Juz.)
+Solanum leptostigma (Juz. ex Bukasov)
+Solanum macmillanii (Bukasov)
+Solanum maglia var. chubutense (Bitter)
+Solanum maglia var. guaytecarum (Bitter)
+Solanum mamilliferum (Juz. & Bukasov)
+Solanum molinae (Juz.)
+Solanum oceanicum (Brücher)
+Solanum ochoanum (Lechn.)
+Solanum paramoense (Bitter ex Pittier)
+Solanum parmentieri (Molina ex Walp.)
+Solanum parvicorollatum (Lechn.)
+Solanum phureja (Juz. & Bukasov)
+Solanum phureja var. caeruleum (Ochoa)
+Solanum phureja var. erlansonii ((Bukasov & Lechnovitch) Ochoa)
+Solanum phureja subsp. estradae ((L.E.López) Hawkes)
+Solanum phureja var. flavum (Ochoa)
+Solanum phureja subsp. hygrothermicum ((Ochoa) Hawkes)
+Solanum phureja var. janck'o-phureja (Ochoa)
+Solanum phureja var. macmillanii ((Bukasov & Lechnovitch) Ochoa)
+Solanum phureja f. orbiculatum (Ochoa)
+Solanum phureja var. pujeri (Hawkes)
+Solanum phureja var. rubroroseum (Ochoa)
+Solanum phureja var. sanguineum (Ochoa)
+Solanum phureja f. sayhuanimayo (Ochoa)
+Solanum phureja f. timusi (Ochoa)
+Solanum phureja f. viuda (Ochoa)
+Solanum riobambense (Juz. & Bukasov)
+Solanum rybinii (Juz. & Bukasov)
+Solanum rybinii var. bogotense (Hawkes)
+Solanum rybinii var. boyacense ((Juz. & Bukasov) Hawkes)
+Solanum rybinii var. pastoense (Hawkes)
+Solanum rybinii var. popayanum (Hawkes)
+Solanum sabinei ((A.DC.) Berthault)
+Solanum sanmartinense (Brücher)
+Solanum sendigena (Juz. & Bukasov)
+Solanum sinense (Blanco)
+Solanum stenotomum (Juz. & Bukasov)
+Solanum stenotomum f. alcay-imilla (Hawkes)
+Solanum stenotomum f. canasense (Vargas)
+Solanum stenotomum f. canastilla (Hawkes)
+Solanum stenotomum f. catari-papa (Hawkes)
+Solanum stenotomum f. ccami ((Bukasov) Hawkes)
+Solanum stenotomum var. ccami (Bukasov)
+Solanum stenotomum var. chapina (Hawkes)
+Solanum stenotomum f. chilcas (Hawkes)
+Solanum stenotomum f. chincherae (Hawkes)
+Solanum stenotomum f. chojllu (Hawkes)
+Solanum stenotomum f. cochicallo (Hawkes)
+Solanum stenotomum f. cohuasa (Hawkes)
+Solanum stenotomum f. cuchipacon (Hawkes)
+Solanum stenotomum var. cyaneum (Hawkes)
+Solanum stenotomum f. eucaliptae (Hawkes)
+Solanum stenotomum subsp. goniocalyx ((Juz. & Bukasov) Hawkes)
+Solanum stenotomum f. huallata-chinchi (Hawkes)
+Solanum stenotomum f. huamanpa-uman (Hawkes)
+Solanum stenotomum f. huanuchi (Hawkes)
+Solanum stenotomum var. huicu (Hawkes)
+Solanum stenotomum f. kamara (Hawkes)
+Solanum stenotomum f. kantillero (Hawkes)
+Solanum stenotomum var. keccrana (Hawkes)
+Solanum stenotomum f. kehuillo (Hawkes)
+Solanum stenotomum f. koso-nahui (Hawkes)
+Solanum stenotomum var. megalocalyx (Hawkes)
+Solanum stenotomum f. negrum (Hawkes)
+Solanum stenotomum f. orcco-amajaya (Hawkes)
+Solanum stenotomum f. pallidum (Hawkes)
+Solanum stenotomum var. peruanum (Hawkes)
+Solanum stenotomum f. phinu (Hawkes)
+Solanum stenotomum f. phitu-huayacas (Hawkes)
+Solanum stenotomum f. piticana (Hawkes)
+Solanum stenotomum var. pitiquilla (Hawkes)
+Solanum stenotomum f. pitoca (Hawkes)
+Solanum stenotomum var. poccoya (Vargas)
+Solanum stenotomum f. puca (Vargas)
+Solanum stenotomum var. puca-lunca (Hawkes)
+Solanum stenotomum var. putis (Hawkes)
+Solanum stenotomum f. roseum (Hawkes)
+Solanum stenotomum f. tiele (Hawkes)
+Solanum stenotomum f. yana-cculi (Hawkes)
+Solanum stenotomum f. yuracc (Vargas)
+Solanum subandigenum (Hawkes)
+Solanum sylvestre (Audib. ex Dunal)
+Solanum tarmense (Bukasov)
+Solanum tascalense (Brücher)
+Solanum tenuifilamentum (Juz. & Bukasov)
+Solanum tuberosum f. acuminatum (Bukasov & Lechn.)
+Solanum tuberosum var. aethiopicum (Alef.)
+Solanum tuberosum var. alaudinum (Alef.)
+Solanum tuberosum var. album (Alef.)
+Solanum tuberosum f. alkka-imilla (Ochoa)
+Solanum tuberosum f. alkka-silla (Ochoa)
+Solanum tuberosum f. amajaya (Ochoa)
+Solanum tuberosum subsp. andigenum ((Juz. & Bukasov) Hawkes)
+Solanum tuberosum var. anglicum (Alef.)
+Solanum tuberosum f. araucanum (Bukasov & Lechn.)
+Solanum tuberosum f. auriculatum (Bukasov & Lechn.)
+Solanum tuberosum f. azul-runa (Ochoa)
+Solanum tuberosum var. batatinum (Alef.)
+Solanum tuberosum var. bertuchii (Alef.)
+Solanum tuberosum var. borsdorfianum (Alef.)
+Solanum tuberosum var. brachyceras (Alef.)
+Solanum tuberosum f. brachykalukon (Bukasov & Lechn.)
+Solanum tuberosum f. brevipapillosum (Bukasov & Lechn.)
+Solanum tuberosum var. brevipilosum (Bukasov & Lechn.)
+Solanum tuberosum var. bufoninum (Alef.)
+Solanum tuberosum var. californicum (Alef.)
+Solanum tuberosum f. camota (Bukasov & Lechn.)
+Solanum tuberosum var. cepinum (Alef.)
+Solanum tuberosum f. chaped (Bukasov & Lechn.)
+Solanum tuberosum f. chiar-lelekkoya (Ochoa)
+Solanum tuberosum f. chiar-pala (Ochoa)
+Solanum tuberosum subsp. chiloense ((A.DC.) L.I.Kostina)
+Solanum tuberosum var. chiloense (A.DC.)
+Solanum tuberosum var. chilotanum (Bukasov & Lechn.)
+Solanum tuberosum f. chojo-sajama (Ochoa)
+Solanum tuberosum var. chubutense ((Bitter) Hawkes)
+Solanum tuberosum f. conicum (Bukasov & Lechn.)
+Solanum tuberosum var. conocarpum (Alef.)
+Solanum tuberosum f. contortum (Bukasov & Lechn.)
+Solanum tuberosum f. coraila (Bukasov & Lechn.)
+Solanum tuberosum var. cordiforme (Alef.)
+Solanum tuberosum var. corsicanum (Alef.)
+Solanum tuberosum f. crassifilamentum (Bukasov & Lechn.)
+Solanum tuberosum var. crassipedicellatum (Bukasov & Lechn.)
+Solanum tuberosum var. cucumerinum (Alef.)
+Solanum tuberosum var. cultum
+Solanum tuberosum var. drakeanum (Alef.)
+Solanum tuberosum var. elegans (Bukasov & Lechn.)
+Solanum tuberosum f. elongatum (Bukasov & Lechn.)
+Solanum tuberosum var. elongatum (Alef.)
+Solanum tuberosum f. enode (Bukasov & Lechn.)
+Solanum tuberosum var. erythroceras (Alef.)
+Solanum tuberosum var. fragariinum (Alef.)
+Solanum tuberosum var. guaytecarum ((Bitter) Hawkes)
+Solanum tuberosum var. hassicum (Alef.)
+Solanum tuberosum var. helenanum (Alef.)
+Solanum tuberosum var. hispanicum (Alef.)
+Solanum tuberosum var. holsaticum (Alef.)
+Solanum tuberosum f. huaca-zapato (Ochoa)
+Solanum tuberosum f. huichinkka (Ochoa)
+Solanum tuberosum f. indianum (Lechn. ex Bukasov)
+Solanum tuberosum f. infectum (Bukasov & Lechn.)
+Solanum tuberosum f. isla-imilla (Ochoa)
+Solanum tuberosum f. jancck'o-kkoyllu (Ochoa)
+Solanum tuberosum f. janck'o-chockella (Ochoa)
+Solanum tuberosum f. janck'o-pala (Ochoa)
+Solanum tuberosum var. julianum (Alef.)
+Solanum tuberosum var. kaunitzii (Alef.)
+Solanum tuberosum f. kunurana (Ochoa)
+Solanum tuberosum f. laram-lelekkoya (Ochoa)
+Solanum tuberosum f. latum (Bukasov & Lechn.)
+Solanum tuberosum var. laurentianum (Alef.)
+Solanum tuberosum var. lelekkoya (Ochoa)
+Solanum tuberosum var. leonhardianum (Alef.)
+Solanum tuberosum f. mahuinhue (Bukasov & Lechn.)
+Solanum tuberosum var. malcachu (Ochoa)
+Solanum tuberosum var. melanoceras (Alef.)
+Solanum tuberosum var. menapianum (Alef.)
+Solanum tuberosum var. merceri (Alef.)
+Solanum tuberosum f. milagro (Ochoa)
+Solanum tuberosum f. montticum (Bukasov & Lechn.)
+Solanum tuberosum var. multibaccatum (Bukasov & Lechn.)
+Solanum tuberosum var. murukewillu (Ochoa)
+Solanum tuberosum f. nigrum (Ochoa)
+Solanum tuberosum var. nobile (Alef.)
+Solanum tuberosum var. norfolcicum (Alef.)
+Solanum tuberosum var. nucinum (Alef.)
+Solanum tuberosum f. oculosum (Bukasov & Lechn.)
+Solanum tuberosum f. ovatum (Bukasov & Lechn.)
+Solanum tuberosum f. overita (Ochoa)
+Solanum tuberosum var. palatinatum (Alef.)
+Solanum tuberosum var. pecorum (Alef.)
+Solanum tuberosum var. peruvianum (Alef.)
+Solanum tuberosum f. pichuna (Bukasov & Lechn.)
+Solanum tuberosum f. pillicuma (Bukasov & Lechn.)
+Solanum tuberosum var. platyceras (Alef.)
+Solanum tuberosum var. polemoniifolium (J.Rémy)
+Solanum tuberosum var. praecox (Alef.)
+Solanum tuberosum var. praedicandum (Alef.)
+Solanum tuberosum f. pulo (Ochoa)
+Solanum tuberosum var. putscheanum (Alef.)
+Solanum tuberosum var. recurvatum (Bukasov & Lechn.)
+Solanum tuberosum var. reniforme (Alef.)
+Solanum tuberosum var. rockii (Alef.)
+Solanum tuberosum var. rossicum (Alef.)
+Solanum tuberosum var. rubrisuturatum (Bukasov & Lechn.)
+Solanum tuberosum var. rugiorum (Alef.)
+Solanum tuberosum var. runa (Ochoa)
+Solanum tuberosum var. sabinei (A.DC.)
+Solanum tuberosum var. saccharatum (Alef.)
+Solanum tuberosum var. salamandrinum (Alef.)
+Solanum tuberosum f. sani-imilla (Ochoa)
+Solanum tuberosum var. schnittspahnii (Alef.)
+Solanum tuberosum f. sebastianum (Bukasov & Lechn.)
+Solanum tuberosum var. sesquimensale (Alef.)
+Solanum tuberosum var. sicha (Ochoa)
+Solanum tuberosum var. sipancachi (Ochoa)
+Solanum tuberosum var. strobilinum (Alef.)
+Solanum tuberosum f. surico (Ochoa)
+Solanum tuberosum var. taraco (Ochoa)
+Solanum tuberosum var. tener (Alef.)
+Solanum tuberosum f. tenuipedicellatum (Bukasov & Lechn.)
+Solanum tuberosum f. thalassinum (Bukasov & Lechn.)
+Solanum tuberosum var. tinctorium (Alef.)
+Solanum tuberosum f. tinguipaya (Ochoa)
+Solanum tuberosum var. ulmense (Alef.)
+Solanum tuberosum var. versicolor (Alef.)
+Solanum tuberosum var. villaroella (Bukasov & Lechn.)
+Solanum tuberosum f. viride (Bukasov & Lechn.)
+Solanum tuberosum var. vuchefeldicum (Alef.)
+Solanum tuberosum var. vulgare (Macloskie)
+Solanum tuberosum var. vulgare (Hook.f.)
+Solanum tuberosum f. wila-huaycku (Ochoa)
+Solanum tuberosum f. wila-imilla (Ochoa)
+Solanum tuberosum f. wila-k'oyu (Ochoa)
+Solanum tuberosum f. wila-monda (Ochoa)
+Solanum tuberosum f. wila-pala (Ochoa)
+Solanum tuberosum var. xanthoceras (Alef.)
+Solanum tuberosum f. yurac-taraco (Ochoa)
+Solanum tuberosum var. yutuense (Bukasov & Lechn.)
+Solanum utile (Klotzsch)
+Solanum yabari (Hawkes)
+Solanum yabari var. cuzcoense (Hawkes)
+Solanum yabari var. pepino (Hawkes)
+Solanum zykinii (Lechn.)
+Description
+Flowers of a potato plant
+Potato plants
+Potato plants are herbaceous perennials that grow about 60 cm (24 in) high, depending on variety, with the leaves dying back after flowering, fruiting and tuber formation. They bear white, pink, red, blue, or purple flowers with yellow stamens. Potatoes are mostly cross-pollinated by insects such as bumblebees, which carry pollen from other potato plants, though a substantial amount of self-fertilizing occurs as well. Tubers form in response to decreasing day length, although this tendency has been minimized in commercial varieties.[21]
+After flowering, potato plants produce small green fruits that resemble green cherry tomatoes, each containing about 300 seeds. Like all parts of the plant except the tubers, the fruit contain the toxic alkaloid solanine and are therefore unsuitable for consumption. All new potato varieties are grown from seeds, also called "true potato seed", "TPS" or "botanical seed" to distinguish it from seed tubers.[22] New varieties grown from seed can be propagated vegetatively by planting tubers, pieces of tubers cut to include at least one or two eyes, or cuttings, a practice used in greenhouses for the production of healthy seed tubers. Plants propagated from tubers are clones of the parent, whereas those propagated from seed produce a range of different varieties.
+Potatoes in an Oklahoma garden
+Potatoes, both S. tuberosum and most of its wild relatives, are self-incompatible: they bear no useful fruit when self-pollinated. This trait is problematic for crop breeding, as all sexually-produced plants must be hybrids. The gene responsible for its trait as well as mutations to disable it are now known. Self-compatibility has successfully been introduced both to diploid potatoes (including a special line of S. tuberosum) by CRISPR-Cas9.[23] Plants having a 'Sli' gene produce pollen which is compatible to its own parent and plants with similar S genes.[24] This gene was recently cloned by Wageningen University and Solynta in 2021, which would allow for faster and more focused breeding.[22][25]
+Diploid hybrid potato breeding is a recent area of potato genetics supported by the finding that homozygous fixation of donor alleles is possible.[26]
+Genetics
+There are about 5,000 potato varieties worldwide. Three thousand of them are found in the Andes alone, mainly in Peru, Bolivia, Ecuador, Chile, and Colombia. They belong to eight or nine species, depending on the taxonomic school. Apart from the 5,000 cultivated varieties, there are about 200 wild species and subspecies, many of which can be cross-bred with cultivated varieties. Cross-breeding has been done repeatedly to transfer resistances to certain pests and diseases from the gene pool of wild species to the gene pool of cultivated potato species.
+Russet potatoes
+The major species grown worldwide is Solanum tuberosum (a tetraploid with 48 chromosomes), and modern varieties of this species are the most widely cultivated. There are also four diploid species (with 24 chromosomes): S. stenotomum, S. phureja, S. goniocalyx, and S. ajanhuiri. There are two triploid species (with 36 chromosomes): S. chaucha and S. juzepczukii. There is one pentaploid cultivated species (with 60 chromosomes): S. curtilobum. There are two major subspecies of Solanum tuberosum: andigena, or Andean; and tuberosum, or Chilean.[27] The Andean potato is adapted to the short-day conditions prevalent in the mountainous equatorial and tropical regions where it originated; the Chilean potato, however, native to the Chiloé Archipelago, is adapted to the long-day conditions prevalent in the higher latitude region of southern Chile.[28]
+The International Potato Center, based in Lima, Peru, holds 4,870 types of potato germplasm, most of which are traditional landrace cultivars.[29] The international Potato Genome Sequencing Consortium announced in 2009 that they had achieved a draft sequence of the potato genome, containing 12 chromosomes and 860 million base pairs, making it a medium-sized plant genome.[30] More than 99 percent of all current varieties of potatoes currently grown are direct descendants of a subspecies that once grew in the lowlands of south-central Chile.[31] Nonetheless, genetic testing of the wide variety of cultivars and wild species affirms that all potato subspecies derive from a single origin in the area of present-day southern Peru and extreme Northwestern Bolivia (from a species in the Solanum brevicaule complex).[5][6][7]
+Most modern potatoes grown in North America arrived through European settlement and not independently from the South American sources, although at least one wild potato species, Solanum fendleri, naturally ranges from Peru into Texas, where it is used in breeding for resistance to a nematode species that attacks cultivated potatoes. A secondary center of genetic variability of the potato is Mexico, where important wild species that have been used extensively in modern breeding are found, such as the hexaploid Solanum demissum, as a source of resistance to the devastating late blight disease.[32] Another relative native to this region, Solanum bulbocastanum, has been used to genetically engineer the potato to resist potato blight.[33]
+Varieties
+Further information: List of potato cultivars
+There are close to 4,000 varieties of potatoes, each of which has specific agricultural or culinary attributes.[34] Around 80 varieties are commercially available in the UK.[35] In general, varieties are categorized into a few main groups based on common characteristics, such as russet potatoes (rough brown skin), red potatoes, white potatoes, yellow potatoes (also called Yukon potatoes) and purple potatoes.
+A thin section of a potato under light microscopy. It has been treated with an iodine based dye that binds to starch, turning it purple, showing the high starch content.
+For culinary purposes, varieties are often differentiated by their waxiness: floury or mealy baking potatoes have more starch (20–22%) than waxy boiling potatoes (16–18%). The distinction may also arise from variation in the comparative ratio of two different potato starch compounds: amylose and amylopectin. Amylose, a long-chain molecule, diffuses from the starch granule when cooked in water, and lends itself to dishes where the potato is mashed. Varieties that contain a slightly higher amylopectin content, which is a highly branched molecule, help the potato retain its shape after being boiled in water.[36] Potatoes that are good for making potato chips or potato crisps are sometimes called "chipping potatoes", which means they meet the basic requirements of similar varietal characteristics, being firm, fairly clean, and fairly well-shaped.[37]
+Immature potatoes may be sold fresh from the field as "creamer" or "new" potatoes and are particularly valued for their taste. They are typically small in size and tender, with a loose skin, and flesh containing a lower level of starch than other potatoes. In the United States they are generally either a Yukon Gold potato or a red potato, called gold creamers or red creamers respectively.[38][39] In the UK, the Jersey Royal is a famous type of new potato.[40] They are distinct from "baby", "salad" or "fingerling" potatoes, which are small and tend to have waxy flesh, but are grown to maturity and can be stored for months before being sold.
+The European Cultivated Potato Database (ECPD) is an online collaborative database of potato variety descriptions that is updated and maintained by the Scottish Agricultural Science Agency within the framework of the European Cooperative Programme for Crop Genetic Resources Networks (ECP/GR)—which is run by the International Plant Genetic Resources Institute (IPGRI).[41]
+Pigmentation
+Potatoes with different pigmentation
+Dozens of potato cultivars have been selectively bred specifically for their skin or, more commonly, flesh color, including gold, red, and blue varieties[42] that contain varying amounts of phytochemicals, including carotenoids for gold/yellow or polyphenols for red or blue cultivars.[43] Carotenoid compounds include provitamin A alpha-carotene and beta-carotene, which are converted to the essential nutrient, vitamin A, during digestion. Anthocyanins mainly responsible for red or blue pigmentation in potato cultivars do not have nutritional significance, but are used for visual variety and consumer appeal.[44] In 2010, potatoes were bioengineered specifically for these pigmentation traits.[45]
+Genetically engineered potatoes
+Main article: Genetically engineered potato
+Genetic research has produced several genetically modified varieties. 'New Leaf', owned by Monsanto Company, incorporates genes from Bacillus thuringiensis, which confers resistance to the Colorado potato beetle; 'New Leaf Plus' and 'New Leaf Y', approved by US regulatory agencies during the 1990s, also include resistance to viruses. McDonald's, Burger King, Frito-Lay, and Procter & Gamble announced they would not use genetically modified potatoes, and Monsanto published its intent to discontinue the line in March 2001.[46]
+Potato starch contains two types of glucan, amylose and amylopectin, the latter of which is most industrially useful. Waxy potato varieties produce waxy potato starch, which is almost entirely amylopectin, with little or no amylose.
+BASF developed the Amflora potato, which was modified to express antisense RNA to inactivate the gene for granule bound starch synthase, an enzyme which catalyzes the formation of amylose.[47] Amflora potatoes therefore produce starch consisting almost entirely of amylopectin, and are thus more useful for the starch industry. In 2010, the European Commission cleared the way for 'Amflora' to be grown in the European Union for industrial purposes only—not for food. Nevertheless, under EU rules, individual countries have the right to decide whether they will allow this potato to be grown on their territory. Commercial planting of 'Amflora' was expected in the Czech Republic and Germany in the spring of 2010, and Sweden and the Netherlands in subsequent years.[48] Another GM potato variety developed by BASF is 'Fortuna' which was made resistant to late blight by adding two resistance genes, blb1 and blb2, which originate from the Mexican wild potato Solanum bulbocastanum.[49][50][clarification needed] In October 2011 BASF requested cultivation and marketing approval as a feed and food from the EFSA. In 2012, GMO development in Europe was stopped by BASF.[51][52] In November 2014, the USDA approved a genetically modified potato developed by J.R. Simplot Company, which contains genetic modifications that prevent bruising and produce less acrylamide when fried than conventional potatoes; the modifications do not cause new proteins to be made, but rather prevent proteins from being made via RNA interference.[53]
+Genetically modified varieties have met public resistance in the United States and in the European Union.[54][55]
+Biosynthesis of starch
+Sucrose is a product of photosynthesis. Ferreira et al. (2010) found that the genes for starch biosynthesis start to be transcribed at the same time as sucrose synthase activity begins. This transcription – including starch synthase – also shows a diurnal rhythm, correlating with the sucrose supply arriving from the leaves.[56]
+History
+Main article: History of the potato
+The potato was first domesticated in the region of modern-day southern Peru and northwestern Bolivia[5] by pre-Columbian farmers, around Lake Titicaca.[6] It has since spread around the world and become a staple crop in many countries.
+The earliest archaeologically verified potato tuber remains have been found at the coastal site of Ancon (central Peru), dating to 2500 BC.[57][58] The most widely cultivated variety, Solanum tuberosum tuberosum, is indigenous to the Chiloé Archipelago, and has been cultivated by the local indigenous people since before the Spanish conquest.[28][59]
+According to conservative estimates, the introduction of the potato was responsible for a quarter of the growth in Old World population and urbanization between 1700 and 1900.[60] In the Altiplano, potatoes provided the principal energy source for the Inca civilization, its predecessors, and its Spanish successor. Following the Spanish conquest of the Inca Empire, the Spanish introduced the potato to Europe in the second half of the 16th century, part of the Columbian exchange. The staple was subsequently conveyed by European (possibly including Russian) mariners to territories and ports throughout the world, especially their colonies.[61] The potato was slow to be adopted by European and colonial farmers, but after 1750 it became an important food staple and field crop[61] and played a major role in the European 19th century population boom.[7] However, lack of genetic diversity, due to the very limited number of varieties initially introduced, left the crop vulnerable to disease. In 1845, a plant disease known as late blight, caused by the fungus-like oomycete Phytophthora infestans, spread rapidly through the poorer communities of western Ireland as well as parts of the Scottish Highlands, resulting in the crop failures that led to the Great Irish Famine.[32][61] However, thousands of varieties still persist in the Andes , where over 100 cultivars might be found in a single valley, and a dozen or more might be maintained by a single agricultural household.[62]
+Production
+Main article: List of countries by potato production
+Potato production – 2020
+Country
+Production (millions of tonnes)
+China
+78.2
+India
+51.3
+Russia
+22.5
+Ukraine
+19.6
+United States
+18.8
+World
+359.1
+Source: FAOSTAT of the United Nations[63]
+Production of potatoes (2019)[64]
+Global production of potatoes in 2008
+In 2020, world production of potatoes was 359 million tonnes, led by China with 22% of the total (table). Other major producers were India, Russia, Ukraine and the United States. It remains an essential crop in Europe (especially northern and eastern Europe), where per capita production is still the highest in the world, but the most rapid expansion over the past few decades has occurred in southern and eastern Asia.[8][63]
+Nutrition
+According to the United States Department of Agriculture, a typical raw potato is 79% water, 17% carbohydrates (88% is starch), 2% protein, and contains negligible fat (see table). In a 100-gram (3+1⁄2 oz) portion, raw potato provides 322 kilojoules (77 kilocalories) of food energy and is a rich source of vitamin B6 and vitamin C (23% and 24% of the Daily Value, respectively), with no other vitamins or minerals in significant amount (see table). The potato is rarely eaten raw because raw potato starch is poorly digested by humans.[65] When a potato is baked, its contents of vitamin B6 and vitamin C decline notably, while there is little significant change in the amount of other nutrients.[66]
+Potatoes are often broadly classified as having a high glycemic index (GI) and so are often excluded from the diets of individuals trying to follow a low-GI diet. The GI of potatoes can vary considerably depending on the cultivar, growing conditions and storage, preparation methods (by cooking method, whether it is eaten hot or cold, whether it is mashed or cubed or consumed whole), and accompanying foods consumed (especially the addition of various high-fat or high-protein toppings).[67] Consuming reheated or pre-cooked and cooled potatoes may yield a lower GI effect due to the formation of resistant starch.[67]
+In the UK, potatoes are not considered by the National Health Service (NHS) as counting or contributing towards the recommended daily five portions of fruit and vegetables, the 5-A-Day program.[68]
+Comparison to other staple foods
+This table shows the nutrient content of potatoes next to other major staple foods, each one measured in its respective raw state on a dry weight basis to account for their different water contents, even though staple foods are not commonly eaten raw and are usually sprouted or cooked before eating. In sprouted and cooked form, the relative nutritional and anti-nutritional contents of each of these grains (or other foods) may be different from the values in this table. Each nutrient (every row) has the highest number highlighted to show the staple food with the greatest amount in a dry 100 grams (3.5 oz) portion.
+Nutrient content of 10 major staple foods per 100 g dry weight[69]
+Staple
+Maize (corn)[A]
+Rice, white[B]
+Wheat[C]
+Potatoes[D]
+Cassava[E]
+Soybeans, green[F]
+Sweet potatoes[G]
+Yams[Y]
+Sorghum[H]
+Plantain[Z]
+RDA
+Water content (%)
+10
+12
+13
+79
+60
+68
+77
+70
+9
+65
+Raw grams per 100 g dry weight
+111
+114
+115
+476
+250
+313
+435
+333
+110
+286
+Nutrient
+Energy (kJ)
+1698
+1736
+1574
+1533
+1675
+1922
+1565
+1647
+1559
+1460
+8,368–10,460
+Protein (g)
+10.4
+8.1
+14.5
+9.5
+3.5
+40.6
+7.0
+5.0
+12.4
+3.7
+50
+Fat (g)
+5.3
+0.8
+1.8
+0.4
+0.7
+21.6
+0.2
+0.6
+3.6
+1.1
+44–77
+Carbohydrates (g)
+82
+91
+82
+81
+95
+34
+87
+93
+82
+91
+130
+Fiber (g)
+8.1
+1.5
+14.0
+10.5
+4.5
+13.1
+13.0
+13.7
+6.9
+6.6
+30
+Sugar (g)
+0.7
+0.1
+0.5
+3.7
+4.3
+0.0
+18.2
+1.7
+0.0
+42.9
+minimal
+Minerals
+[A]
+[B]
+[C]
+[D]
+[E]
+[F]
+[G]
+[Y]
+[H]
+[Z]
+RDA
+Calcium (mg)
+8
+32
+33
+57
+40
+616
+130
+57
+31
+9
+1,000
+Iron (mg)
+3.01
+0.91
+3.67
+3.71
+0.68
+11.09
+2.65
+1.80
+4.84
+1.71
+8
+Magnesium (mg)
+141
+28
+145
+110
+53
+203
+109
+70
+0
+106
+400
+Phosphorus (mg)
+233
+131
+331
+271
+68
+606
+204
+183
+315
+97
+700
+Potassium (mg)
+319
+131
+417
+2005
+678
+1938
+1465
+2720
+385
+1426
+4700
+Sodium (mg)
+39
+6
+2
+29
+35
+47
+239
+30
+7
+11
+1,500
+Zinc (mg)
+2.46
+1.24
+3.05
+1.38
+0.85
+3.09
+1.30
+0.80
+0.00
+0.40
+11
+Copper (mg)
+0.34
+0.25
+0.49
+0.52
+0.25
+0.41
+0.65
+0.60
+-
+0.23
+0.9
+Manganese (mg)
+0.54
+1.24
+4.59
+0.71
+0.95
+1.72
+1.13
+1.33
+-
+-
+2.3
+Selenium (μg)
+17.2
+17.2
+81.3
+1.4
+1.8
+4.7
+2.6
+2.3
+0.0
+4.3
+55
+Vitamins
+[A]
+[B]
+[C]
+[D]
+[E]
+[F]
+[G]
+[Y]
+[H]
+[Z]
+RDA
+Vitamin C (mg)
+0.0
+0.0
+0.0
+93.8
+51.5
+90.6
+10.4
+57.0
+0.0
+52.6
+90
+Thiamin (B1) (mg)
+0.43
+0.08
+0.34
+0.38
+0.23
+1.38
+0.35
+0.37
+0.26
+0.14
+1.2
+Riboflavin (B2) (mg)
+0.22
+0.06
+0.14
+0.14
+0.13
+0.56
+0.26
+0.10
+0.15
+0.14
+1.3
+Niacin (B3) (mg)
+4.03
+1.82
+6.28
+5.00
+2.13
+5.16
+2.43
+1.83
+3.22
+1.97
+16
+Pantothenic acid (B5) (mg)
+0.47
+1.15
+1.09
+1.43
+0.28
+0.47
+3.48
+1.03
+-
+0.74
+5
+Vitamin B6 (mg)
+0.69
+0.18
+0.34
+1.43
+0.23
+0.22
+0.91
+0.97
+-
+0.86
+1.3
+Folate Total (B9) (μg)
+21
+9
+44
+76
+68
+516
+48
+77
+0
+63
+400
+Vitamin A (IU)
+238
+0
+10
+10
+33
+563
+4178
+460
+0
+3220
+5000
+Vitamin E, alpha-tocopherol (mg)
+0.54
+0.13
+1.16
+0.05
+0.48
+0.00
+1.13
+1.30
+0.00
+0.40
+15
+Vitamin K1 (μg)
+0.3
+0.1
+2.2
+9.0
+4.8
+0.0
+7.8
+8.7
+0.0
+2.0
+120
+Beta-carotene (μg)
+108
+0
+6
+5
+20
+0
+36996
+277
+0
+1306
+10500
+Lutein+zeaxanthin (μg)
+1506
+0
+253
+38
+0
+0
+0
+0
+0
+86
+6000
+Fats
+[A]
+[B]
+[C]
+[D]
+[E]
+[F]
+[G]
+[Y]
+[H]
+[Z]
+RDA
+Saturated fatty acids (g)
+0.74
+0.20
+0.30
+0.14
+0.18
+2.47
+0.09
+0.13
+0.51
+0.40
+minimal
+Monounsaturated fatty acids (g)
+1.39
+0.24
+0.23
+0.00
+0.20
+4.00
+0.00
+0.03
+1.09
+0.09
+22–55
+Polyunsaturated fatty acids (g)
+2.40
+0.20
+0.72
+0.19
+0.13
+10.00
+0.04
+0.27
+1.51
+0.20
+13–19
+[A]
+[B]
+[C]
+[D]
+[E]
+[F]
+[G]
+[Y]
+[H]
+[Z]
+RDA
+A
+raw yellow dent corn
+B
+raw unenriched long-grain white rice
+C
+raw hard red winter wheat
+D
+raw potato with flesh and skin
+E
+raw cassava
+F
+raw green soybeans
+G
+raw sweet potato
+H
+raw sorghum
+Y
+raw yam
+Z
+raw plantains
+/*
+unofficial
+Potatoes from North India
+Toxicity
+'Early Rose' variety seed tuber with sprouts
+Potato fruit, which is not edible
+Potatoes contain toxic compounds known as glycoalkaloids, of which the most prevalent are solanine and chaconine. Solanine is found in other plants in the same family, Solanaceae, which includes such plants as deadly nightshade (Atropa belladonna), henbane (Hyoscyamus niger) and tobacco (Nicotiana spp.), as well as the food plants eggplant and tomato. These compounds, which protect the potato plant from its predators, are generally concentrated in its leaves, flowers, sprouts, and fruits (in contrast to the tubers).[70] In a summary of several studies, the glycoalkaloid content was highest in the flowers and sprouts and lowest in the tuber flesh. (The glycoalkaloid content was, in order from highest to lowest: flowers, sprouts, leaves, tuber skin, roots, berries, peel [skin plus outer cortex of tuber flesh], stems, and tuber flesh).[10]
+Exposure to light, physical damage, and age increase glycoalkaloid content within the tuber.[71] Cooking at high temperatures—over 170 °C (338 °F)—partly destroys these compounds. The concentration of glycoalkaloids in wild potatoes is sufficient to produce toxic effects in humans. Glycoalkaloid poisoning may cause headaches, diarrhea, cramps, and, in severe cases, coma and death. However, poisoning from cultivated potato varieties is very rare. Light exposure causes greening from chlorophyll synthesis, giving a visual clue as to which areas of the tuber may have become more toxic. However, this does not provide a definitive guide, as greening and glycoalkaloid accumulation can occur independently of each other.
+Different potato varieties contain different levels of glycoalkaloids. The Lenape variety was released in 1967 but was withdrawn in 1970 as it contained high levels of glycoalkaloids.[72] Since then, breeders developing new varieties test for this, and sometimes have to discard an otherwise promising cultivar. Breeders try to keep glycoalkaloid levels below 200 mg/kg (0.0032 oz/lb) (200 ppmw). However, when these commercial varieties turn green, they can still approach solanine concentrations of 1,000 mg/kg (0.016 oz/lb) (1000 ppmw). In normal potatoes, analysis has shown solanine levels may be as little as 3.5% of the breeders' maximum, with 7–187 mg/kg (0.00011–0.00299 oz/lb) being found.[73] While a normal potato tuber has 12–20 mg/kg (0.00019–0.00032 oz/lb) of glycoalkaloid content, a green potato tuber contains 250–280 mg/kg (0.0040–0.0045 oz/lb) and its skin has 1,500–2,200 mg/kg (0.024–0.035 oz/lb).[74]
+Growth and cultivation
+Potato planting
+Potato field in Fort Fairfield, Maine
+Seed potatoes
+Potatoes are generally grown from seed potatoes, tubers specifically grown to be free from disease and to provide consistent and healthy plants. To be disease free, the areas where seed potatoes are grown are selected with care. In the US, this restricts production of seed potatoes to only 15 states out of all 50 states where potatoes are grown.[75] These locations are selected for their cold, hard winters that kill pests and summers with long sunshine hours for optimum growth. In the UK, most seed potatoes originate in Scotland, in areas where westerly winds reduce aphid attack and the spread of potato virus pathogens.[76]
+Potatoes can also be grown from true seeds.[22]
+Phases of growth
+Potato growth can be divided into five phases. During the first phase, sprouts emerge from the seed potatoes and root growth begins. During the second, photosynthesis begins as the plant develops leaves and branches above-ground and stolons develop from lower leaf axils on the below-ground stem. In the third phase the tips of the stolons swell forming new tubers and the shoots continue to grow and flowers typically develop soon after. Tuber bulking occurs during the fourth phase, when the plant begins investing the majority of its resources in its newly formed tubers. At this phase, several factors are critical to a good yield: optimal soil moisture and temperature, soil nutrient availability and balance, and resistance to pest attacks. The fifth phase is the maturation of the tubers: the leaves and stems senesce and the tuber skins harden.[77][78]
+Challenges
+Potatoes grown in a tall bag are common in gardens as they minimize the amount of digging required at harvestNew tubers may start growing at the surface of the soil. Since exposure to light leads to an undesirable greening of the skins and the development of solanine as a protection from the sun's rays, growers cover surface tubers. Commercial growers cover them by piling additional soil around the base of the plant as it grows (called "hilling" up, or in British English "earthing up"). An alternative method, used by home gardeners and smaller-scale growers, involves covering the growing area with mulches such as straw or plastic sheets.[79]
+Correct potato husbandry can be an arduous task in some circumstances. Good ground preparation, harrowing, plowing, and rolling are always needed, along with a little grace from the weather and a good source of water.[80] Three successive plowings, with associated harrowing and rolling, are desirable before planting. Eliminating all root-weeds is desirable in potato cultivation. In general, the potatoes themselves are grown from the eyes of another potato and not from seed. Home gardeners often plant a piece of potato with two or three eyes in a hill of mounded soil. Commercial growers plant potatoes as a row crop using seed tubers, young plants or microtubers and may mound the entire row. Seed potato crops are rogued in some countries to eliminate diseased plants or those of a different variety from the seed crop.
+Potatoes are sensitive to heavy frosts, which damage them in the ground. Even cold weather makes potatoes more susceptible to bruising and possibly later rotting, which can quickly ruin a large stored crop.
+Pests and disease
+Main article: List of potato diseases
+The historically significant Phytophthora infestans (late blight) remains an ongoing problem in Europe[32][81] and the United States.[82] Other potato diseases include Rhizoctonia, Sclerotinia, black leg, powdery mildew, powdery scab and leafroll virus. A potato infected by late blight
+Insects that commonly transmit potato diseases or damage the plants include the Colorado potato beetle, the potato tuber moth, the green peach aphid (Myzus persicae), the potato aphid, Tuta absoluta, beet leafhoppers, thrips, and mites. The potato cyst nematode is a microscopic worm that feeds on the roots, thus causing the potato plants to wilt. Since its eggs can survive in the soil for several years, crop rotation is recommended.
+According to an Environmental Working Group analysis of USDA and FDA pesticide residue tests performed from 2000 through 2008, 84% of the 2,216 tested potato samples contained detectable traces of at least one pesticide. A total of 36 unique pesticides were detected on potatoes over the 2,216 samples, though no individual sample contained more than 6 unique pesticide traces, and the average was 1.29 detectable unique pesticide traces per sample. The average quantity of all pesticide traces found in the 2,216 samples was 1.602 ppm. While this was a very low value of pesticide residue, it was the highest amongst the 50 vegetables analyzed.[83]
+Rpi-blb1 is a nucleotide-binding leucine-rich repeat (NB-LRR/NLR), an immunoreceptor.[84] It has been introgressed from wild relatives (various Solanum spp.) into the common potato.[84] Rpi-blb1 conveys resistance to Late Blight (P. infestans).[84][clarification needed]
+Harvest
+A modern potato harvester
+At harvest time, gardeners usually dig up potatoes with a long-handled, three-prong "grape" (or graip), i.e., a spading fork, or a potato hook, which is similar to the graip but with tines at a 90° angle to the handle. In larger plots, the plow is the fastest implement for unearthing potatoes. Commercial harvesting is typically done with large potato harvesters, which scoop up the plant and surrounding earth. This is transported up an apron chain consisting of steel links several feet wide, which separates some of the dirt. The chain deposits into an area where further separation occurs. Different designs use different systems at this point. The most complex designs use vine choppers and shakers, along with a blower system to separate the potatoes from the plant. The result is then usually run past workers who continue to sort out plant material, stones, and rotten potatoes before the potatoes are continuously delivered to a wagon or truck. Further inspection and separation occurs when the potatoes are unloaded from the field vehicles and put into storage.
+Potatoes are usually cured after harvest to improve skin-set. Skin-set is the process by which the skin of the potato becomes resistant to skinning damage. Potato tubers may be susceptible to skinning at harvest and suffer skinning damage during harvest and handling operations. Curing allows the skin to fully set and any wounds to heal. Wound-healing prevents infection and water-loss from the tubers during storage. Curing is normally done at relatively warm temperatures (10 to 16 °C or 50 to 60 °F) with high humidity and good gas-exchange if at all possible.[85]
+Storage
+Potato transportation to cold storage in India
+Potato farming in IndiaStorage facilities need to be carefully designed to keep the potatoes alive and slow the natural process of sprouting which involves the breakdown of starch. It is crucial that the storage area be dark, ventilated well, and, for long-term storage, maintained at temperatures near 4 °C (39 °F). For short-term storage, temperatures of about 7 to 10 °C (45 to 50 °F) are preferred.[86]
+Temperatures below 4 °C (39 °F) convert the starch in potatoes into sugar, which alters their taste and cooking qualities and leads to higher acrylamide levels in the cooked product, especially in deep-fried dishes. The discovery of acrylamides in starchy foods in 2002 has led to international health concerns.[citation needed] It is not likely that the acrylamides in burnt or well-cooked food causes cancer in humans.[11]
+Chemicals are used to suppress sprouting of tubers during storage. Chlorpropham (CIPC) is the main chemical used, but toxicity concerns have led to it being banned in the EU.[87] Alternatives are applying maleic hydrazide to the crop whilst it is still growing[88] or the use of ethylene, spearmint and orange oils and 1,4-dimethylnaphthalene.[87]
+Under optimum conditions in commercial warehouses, potatoes can be stored for up to 10–12 months.[86] The commercial storage and retrieval of potatoes involves several phases: first drying surface moisture; wound healing at 85% to 95% relative humidity and temperatures below 25 °C (77 °F); a staged cooling phase; a holding phase; and a reconditioning phase, during which the tubers are slowly warmed. Mechanical ventilation is used at various points during the process to prevent condensation and the accumulation of carbon dioxide.[86]
+Yield
+The world dedicated 18.6 million hectares (46 million acres) to potato cultivation in 2010; the world average yield was 17.4 tonnes per hectare (7.8 short tons per acre). The United States was the most productive country, with a nationwide average yield of 44.3 tonnes per hectare (19.8 short tons per acre).[89] United Kingdom was a close second.
+New Zealand farmers have demonstrated some of the best commercial yields in the world, ranging between 60 and 80 tonnes per hectare, some reporting yields of 88 tonnes of potatoes per hectare.[90][91][92]
+There is a big gap among various countries between high and low yields, even with the same variety of potato. Average potato yields in developed economies ranges between 38 and 44 metric tons per hectare (15 and 18 long ton/acre; 17 and 20 short ton/acre). China and India accounted for over a third of world's production in 2010, and had yields of 14.7 and 19.9 metric tons per hectare (5.9 and 7.9 long ton/acre; 6.6 and 8.9 short ton/acre) respectively.[89] The yield gap between farms in developing economies and developed economies represents an opportunity loss of over 400 million metric tons (440 million short tons; 390 million long tons) of potato, or an amount greater than 2010 world potato production. Potato crop yields are determined by factors such as the crop breed, seed age and quality, crop management practices and the plant environment. Improvements in one or more of these yield determinants, and a closure of the yield gap, can be a major boost to food supply and farmer incomes in the developing world.[93][94]
+The food energy yield of potatoes—about 95 gigajoules per hectare (9.2 million kilocalories per acre)—is higher than that of maize (78 GJ/ha or 7.5 million kcal/acre), rice (77 GJ/ha or 7.4 million kcal/acre), wheat (31 GJ/ha or 3 million kcal/acre), or soybeans (29 GJ/ha or 2.8 million kcal/acre).[95]
+Climate change
+Main article: Climate change and potatoes
+Climate change is predicted to have significant effects on global potato production.[96] Like many crops, potatoes are likely to be affected by changes in atmospheric carbon dioxide, temperature and precipitation, as well as interactions between these factors.[96] As well as affecting potatoes directly, climate change will also affect the distributions and populations of many potato diseases and pests.
+Uses
+See also: List of potato dishes
+See also: Potato cooking
+Various, typically American potato preparations: (clockwise from top left) potato chips, hashbrowns, tater tots, mashed potato, and a baked potato
+Potatoes are prepared in many ways: skin-on or peeled, whole or cut up, with seasonings or without. The only requirement involves cooking to swell the starch granules. Most potato dishes are served hot but some are first cooked, then served cold, notably potato salad and potato chips (crisps). Common dishes are: mashed potatoes, which are first boiled (usually peeled), and then mashed with milk or yogurt and butter; whole baked potatoes; boiled or steamed potatoes; French-fried potatoes or chips; cut into cubes and roasted; scalloped, diced, or sliced and fried (home fries); grated into small thin strips and fried (hash browns); grated and formed into dumplings, Rösti or potato pancakes. Unlike many foods, potatoes can also be easily cooked in a microwave oven and still retain nearly all of their nutritional value, provided they are covered in ventilated plastic wrap to prevent moisture from escaping; this method produces a meal very similar to a steamed potato, while retaining the appearance of a conventionally baked potato. Potato chunks also commonly appear as a stew ingredient. Potatoes are boiled between 10 and 25[97] minutes, depending on size and type, to become soft.
+Other than for eating
+Potatoes are also used for purposes other than eating by humans, for example:
+Potatoes are used to brew alcoholic beverages such as vodka, poitín, or akvavit.
+They are also used as fodder for livestock. Livestock-grade potatoes, considered too small and/or blemished to sell or market for human use but suitable for fodder use, have been called chats in some dialects. They may be stored in bins until use; they are sometimes ensiled.[98] Some farmers prefer to steam them rather than feed them raw and are equipped to do so efficiently.
+Potato starch is used in the food industry as a thickener and binder for soups and sauces, in the textile industry as an adhesive, and for the manufacturing of papers and boards.[99][100]
+Potatoes are commonly used in plant research. The consistent parenchyma tissue, the clonal nature of the plant and the low metabolic activity make it an ideal model tissue for experiments on wound-response studies and electron transport.
+Potatoes have been delivered with personalized messages as a novelty. Potato delivery services include Potato Parcel and Mail A Spud.[101]
+Latin America
+Papa rellena
+Peruvian cuisine naturally contains the potato as a primary ingredient in many dishes, as around 3,000 varieties of this tuber are grown there.[102]
+Some of the more notable dishes include boiled potato as a base for several dishes or with ají-based sauces like in Papa a la Huancaína or ocopa, diced potato for its use in soups like in cau cau, or in Carapulca with dried potato (papa seca). Smashed condimented potato is used in causa Limeña and papa rellena. French-fried potatoes are a typical ingredient in Peruvian stir-fries, including the classic dish lomo saltado.
+Chuño is a freeze-dried potato product traditionally made by Quechua and Aymara communities of Peru and Bolivia,[103] and is known in various countries of South America, including Peru, Bolivia, Argentina, and Chile. In Chile's Chiloé Archipelago, potatoes are the main ingredient of many dishes, including milcaos, chapaleles, curanto and chochoca. In Ecuador, the potato, as well as being a staple with most dishes, is featured in the hearty locro de papas, a thick soup of potato, squash, and cheese.
+Europe
+Baked potato with sour cream and chives
+In the UK, potatoes form part of the traditional staple, fish and chips. Roast potatoes are commonly served as part of a Sunday roast dinner and mashed potatoes form a major component of several other traditional dishes, such as shepherd's pie, bubble and squeak, and bangers and mash. New potatoes may be cooked with mint and are often served with butter.[104]
+The Tattie scone is a popular Scottish dish containing potatoes. Colcannon is a traditional Irish food made with mashed potato, shredded kale or cabbage, and onion; champ is a similar dish. Boxty pancakes are eaten throughout Ireland, although associated especially with the North, and in Irish diaspora communities; they are traditionally made with grated potatoes, soaked to loosen the starch and mixed with flour, buttermilk and baking powder. A variant eaten and sold in Lancashire, especially Liverpool, is made with cooked and mashed potatoes.
+In the UK, game chips are a traditional accompaniment to roast gamebirds such as pheasant, grouse, partridge and quail.
+Powdered cooked potato has been sold in the UK since the 1960s as Smash and is used as a food for camping [105] and domestically.
+Halushky are the national dish of many Slavic nations. Halušky dumplings are made from a batter consisting of flour and grated potatoes. Bryndzové halušky are associated to Slovak cuisine in particular.
+German Bauernfrühstück ("farmer's breakfast")
+In Germany, Northern (Finland, Latvia and especially Scandinavian countries), Eastern Europe (Russia, Belarus and Ukraine) and Poland, newly harvested, early ripening varieties are considered a special delicacy. Boiled whole and served un-peeled with dill, these "new potatoes" are traditionally consumed with Baltic herring. Puddings made from grated potatoes (kugel, kugelis, and potato babka) are popular items of Ashkenazi, Lithuanian, and Belarusian cuisine.[106] German fried potatoes and various versions of Potato salad are part of German cuisine. Bauernfrühstück (literally farmer's breakfast) is a warm German dish made from fried potatoes, eggs, ham and vegetables.
+Cepelinai
+Cepelinai is the national dish of Lithuania. They are a type of dumpling made from grated raw potatoes boiled in water and usually stuffed with minced meat, although sometimes dry cottage cheese (curd) or mushrooms are used instead.[107]
+In Western Europe, especially in Belgium, sliced potatoes are fried to create frieten, the original French fried potatoes. Stamppot, a traditional Dutch meal, is based on mashed potatoes mixed with vegetables.
+In France, the most notable potato dish is the Hachis Parmentier, named after Antoine-Augustin Parmentier, a French pharmacist, nutritionist, and agronomist who, in the late 18th century, was instrumental in the acceptance of the potato as an edible crop in the country. Pâté aux pommes de terre is a regional potato dish from the central Allier and Limousin regions. Gratin dauphinois, consisting of baked thinly sliced potatoes with cream or milk, and tartiflette, with Reblochon cheese, are also widespread.
+In the north of Italy, in particular, in the Friuli region of the northeast, potatoes serve to make a type of pasta called gnocchi.[108] Similarly, cooked and mashed potatoes or potato flour can be used in the Knödel or dumpling eaten with or added to meat dishes all over central and Eastern Europe, but especially in Bavaria and Luxembourg. Potatoes form one of the main ingredients in many soups such as the vichyssoise and Albanian potato and cabbage soup. In western Norway, komle is popular.
+Potato pancakes are popular all over Central Europe, and are also known in Scandinavia, and in Jewish cuisine.
+A traditional Canary Islands dish is Canarian wrinkly potatoes or papas arrugadas. Tortilla de patatas (potato omelette) and patatas bravas (a dish of fried potatoes in a spicy tomato sauce) are near-universal constituent of Spanish tapas.
+North America
+In the US, potatoes have become one of the most widely consumed crops and thus have a variety of preparation methods and condiments. French fries and often hash browns are commonly found in typical American fast-food burger "joints" and cafeterias. One popular favourite involves a baked potato with cheddar cheese (or sour cream and chives) on top, and in New England "smashed potatoes" (a chunkier variation on mashed potatoes, retaining the peel) have a great popularity. Potato flakes are popular as an instant variety of mashed potatoes, which reconstitute into mashed potatoes by adding water, with butter or oil and salt to taste. A regional dish of Central New York, salt potatoes are bite-size new potatoes boiled in water saturated with salt then served with melted butter. At more formal dinners, a common practice includes taking small red potatoes, slicing them, and roasting them in an iron skillet. Among American Jews, the practice of eating latkes (fried potato pancakes) is common during the festival of Hanukkah.
+A traditional Acadian dish from New Brunswick is known as poutine râpée. The Acadian poutine is a ball of grated and mashed potato, salted, sometimes filled with pork in the centre, and boiled. The result is a moist ball about the size of a baseball. It is commonly eaten with salt and pepper or brown sugar. It is believed to have originated from the German Klöße, prepared by early German settlers who lived among the Acadians. Poutine, by contrast, is a hearty serving of French fries, fresh cheese curds and hot gravy. Tracing its origins to Quebec in the 1950s, it has become a widespread and popular dish throughout Canada.
+Potato grading for Idaho potatoes is performed in which No. 1 potatoes are the highest quality and No. 2 are rated as lower in quality due to their appearance (e.g. blemishes or bruises, pointy ends).[109] Potato density assessment can be performed by floating them in brines.[110] High-density potatoes are desirable in the production of dehydrated mashed potatoes, potato crisps and french fries.[110]
+French fries served with a hamburger
+Poutine, a Canadian dish of fried potatoes, cheese curds, and gravy
+South Asia
+In South Asia, the potato is a very popular traditional staple. In India, the most popular potato dishes are aloo ki sabzi, batata vada, and samosa, which is spicy mashed potato mixed with a small amount of vegetable stuffed in conical dough, and deep fried. Potatoes are also a major ingredient as fast food items, such as aloo chaat, where they are deep fried and served with chutney. In Northern India, alu dum and alu paratha are a favourite part of the diet; the first is a spicy curry of boiled potato, the second is a type of stuffed chapati.
+A dish called masala dosa from South India is very notable all over India. It is a thin pancake of rice and pulse batter rolled over spicy smashed potato and eaten with sambhar and chutney. Poori in south India in particular in Tamil Nadu is almost always taken with smashed potato masal. Other favourite dishes are alu tikki and pakoda items.
+Vada pav is a popular vegetarian fast food dish in Mumbai and other regions in the Maharashtra in India.
+Aloo posto (a curry with potatoes and poppy seeds) is immensely popular in East India, especially Bengal. Although potatoes are not native to India, it has become a vital part of food all over the country especially North Indian food preparations. In Tamil Nadu this tuber acquired a name based on its appearance 'urulai-k-kizhangu' (உருளைக் கிழங்கு) meaning cylindrical tuber.
+The Aloo gosht, Potato and meat curry, is one of the popular dishes in South Asia, especially in Pakistan.
+East Asia
+In East Asia, particularly Southeast Asia, rice is by far the predominant starch crop, with potatoes a secondary crop, especially in China and Japan. However, it is used in northern China where rice is not easily grown, with a popular dish being 青椒土豆丝 (qīng jiāo tǔ dòu sī), made with green pepper, vinegar and thin slices of potato. In the winter, roadside sellers in northern China will also sell roasted potatoes. It is also occasionally seen in Korean and Thai cuisines.[111]
+Cultural significance
+In art
+The potato has been an essential crop in the Andes since the pre-Columbian Era. The Moche culture from Northern Peru made ceramics from the earth, water, and fire. This pottery was a sacred substance, formed in significant shapes and used to represent important themes. Potatoes are represented anthropomorphically as well as naturally.[112]
+During the late 19th century, numerous images of potato harvesting appeared in European art, including the works of Willem Witsen and Anton Mauve.[113]
+Van Gogh's 1885 painting The Potato Eaters portrays a family eating potatoes. Van Gogh said he wanted to depict peasants as they really were. He deliberately chose coarse and ugly models, thinking that they would be natural and unspoiled in his finished work.[114]
+Jean-François Millet's The Potato Harvest depicts peasants working in the plains between Barbizon and Chailly. It presents a theme representative of the peasants' struggle for survival. Millet's technique for this work incorporated paste-like pigments thickly applied over a coarsely textured canvas.
+The Potato Eaters by Van Gogh, 1885 (Van Gogh Museum)
+The Potato Harvest by Jean-François Millet, 1855 (Walters Art Museum)
+In popular culture
+Invented in 1949, and marketed and sold commercially by Hasbro in 1952, Mr. Potato Head is an American toy that consists of a plastic potato and attachable plastic parts, such as ears and eyes, to make a face. It was the first toy ever advertised on television.[115]
+In June, 1992 at the Muñoz Rivera Elementary School spelling bee in Trenton, New Jersey, U.S. Vice President Dan Quayle was handed a flash card that incorrectly spelled "potato" as "potatoe" and then prompted a 12-year-old student to change his correct spelling.[116][117][118] This incident was the subject of widespread ridicule.
+See also
+Food portal
+Climate change and potatoes
+Irish potato candy
+List of potato cultivars
+List of potato dishes
+List of potato museums
+Loy (spade), a form of early spade used in Ireland for the cultivation of potatoes
+New World crops
+Potato battery
+References
+Citations
+^ "Solanum tuberosum L." Plants of the World Online. Board of Trustees of the Royal Botanic Gardens, Kew. 2017. Retrieved 7 September 2020.
+^ "Potato – Definition". Merriam-Webster.
+^ Hijmans, RJ; Spooner, DM (2001). "Geographic distribution of wild potato species". American Journal of Botany. 88 (11): 2101–12. doi:10.2307/3558435. JSTOR 3558435. PMID 21669641.
+^ University of Wisconsin-Madison, Finding rewrites the evolutionary history of the origin of potatoes (2005) [1]
+^ a b c Spooner, David M.; McLean, Karen; Ramsay, Gavin; Waugh, Robbie; Bryan, Glenn J. (29 September 2005). "A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping". Proceedings of the National Academy of Sciences (PNAS). 102 (41): 14694–99. Bibcode:2005PNAS..10214694S. doi:10.1073/pnas.0507400102. PMC 1253605. PMID 16203994. Archived from the original on 26 April 2011. – Lay summary: "International Potato Center - Centro Internacional de la Papa - CIP". Archived from the original on 26 April 2011. Retrieved 24 November 2007.
+^ a b c d Office of International Affairs (1989). Lost Crops of the Incas: Little-Known Plants of the Andes with Promise for Worldwide Cultivation. nap.edu. p. 92. doi:10.17226/1398. ISBN 978-0-309-04264-2.
+^ a b c John Michael Francis (2005). Iberia and the Americas: Culture, Politics, and History : a Multidisciplinary Encyclopedia. ABC-CLIO. p. 867. ISBN 978-1-85109-421-9.
+^ a b "The potato sector". Potato Pro. 2014. Retrieved 31 December 2017.
+^ Ames, M.; Spooner, D.M. (February 2008). "DNA from herbarium specimens settles a controversy about origins of the European potato". American Journal of Botany. 95 (2): 252–57. doi:10.3732/ajb.95.2.252. PMID 21632349. S2CID 41052277.
+^ a b Mendel Friedman, Gary M. McDonald & Mary Ann Filadelfi-Keszi (1997). "Potato Glycoalkaloids: Chemistry, Analysis, Safety, and Plant Physiology". Critical Reviews in Plant Sciences. 16 (1): 55–132. doi:10.1080/07352689709701946.
+^ a b "Can eating burnt foods cause cancer?". Cancer Research UK. 15 October 2021.
+^ "Acrylamide and Cancer Risk". American Cancer Society. 11 February 2019.
+^ "patata". Diccionario Usual (in Spanish). Royal Spanish Academy. Retrieved 16 July 2010.
+^ a b Ley, Willy (February 1968). "The Devil's Apples". For Your Information. Galaxy Science Fiction. pp. 118–25 – via Internet Archive.
+^ a b J. Simpson; E. Weiner, eds. (1989). "potato, n". Oxford English Dictionary (2nd ed.). Oxford: Clarendon Press. ISBN 978-0-19-861186-8.
+^ Weatherford, J. McIver (1988). Indian givers: how the Indians of the Americas transformed the world. New York: Fawcett Columbine. p. 69. ISBN 978-0-449-90496-1.
+^ "spud (n.)". Online Etymology Dictionary. Retrieved 13 May 2018.
+^ David Wilton; Ivan Brunetti (2004). Word myths: debunking linguistic urban legends. Oxford University Press. p. 94. ISBN 0-19-517284-1.
+^ Hooshmand, Dana (12 October 2020). ""Earth Apple": The 5 Languages that Use This for "Potato"". discoverdiscomfort.com. Retrieved 27 August 2021.
+^ Laws, Christopher (9 February 2015). "A Cultural History of the Potato as Earth Apple". Culturedarm. Retrieved 27 August 2021.
+^ Virginia Amador; Jordi Bou; Jaime Martínez-García; Elena Monte; Mariana Rodríguez-Falcon; Esther Russo; Salomé Prat (2001). "Regulation of potato tuberization by daylength and gibberellins" (PDF). International Journal of Developmental Biology (45): S37–S38. Retrieved 8 January 2009.
+^ a b c Eggers, Ernst-Jan; Burgt, van der; Heusden, van; W., Sjaak A.; Vries, de; E., Michiel; Visser, Richard G. F.; Bachem, Christian W. B.; Lindhout, Pim (6 July 2021). "Neofunctionalisation of the Sli gene leads to self-compatibility and facilitates precision breeding in potato". Nature Communications. 12 (1): 4141. Bibcode:2021NatCo..12.4141E. doi:10.1038/s41467-021-24267-6. ISSN 2041-1723. PMC 8260583. PMID 34230471.
+^ Eggers, Ernst-Jan; van der Burgt, Ate; van Heusden, Sjaak A. W.; de Vries, Michiel E.; Visser, Richard G. F.; Bachem, Christian W. B.; Lindhout, Pim (December 2021). "Neofunctionalisation of the Sli gene leads to self-compatibility and facilitates precision breeding in potato". Nature Communications. 12 (1): 4141. Bibcode:2021NatCo..12.4141E. doi:10.1038/s41467-021-24267-6. PMC 8260583. PMID 34230471.
+^ Hosaka, Kazuyoshi; Hanneman, Robert E. Jr. (1998). "Genetics of self-compatibility in a self-incompatible wild diploid potato species Solanum chacoense. 1. Detection of an S locus inhibitor (Sli) gene". Euphytica. Springer Science and Business Media LLC. 99 (3): 191–197. doi:10.1023/a:1018353613431. ISSN 0014-2336. S2CID 40678039.
+^
+This study...
+Ma, Ling; Zhang, Chunzhi; Zhang, Bo; Tang, Fei; Li, Futing; Liao, Qinggang; Tang, Die; Peng, Zhen; Jia, Yuxin; Gao, Meng; Guo, Han; Zhang, Jinzhe; Luo, Xuming; Yang, Huiqin; Gao, Dongli; Lucas, William J.; Li, Canhui; Huang, Sanwen; Shang, Yi (6 July 2021). "A nonS-locus F-box gene breaks self-incompatibility in diploid potatoes". Nature Communications. Nature Portfolio. 12 (1): 4142. Bibcode:2021NatCo..12.4142M. doi:10.1038/s41467-021-24266-7. ISSN 2041-1723. PMC 8260799. PMID 34230469.
+...is cited by this review:
+Akagi, Takashi; Jung, Katharina; Masuda, Kanae; Shimizu, Kentaro (2022). "Polyploidy before and after domestication of crop species". Current Opinion in Plant Biology. Elsevier Ltd. 69: 102255. doi:10.1016/j.pbi.2022.102255. ISSN 1369-5266. PMID 35870416. S2CID 250962663.
+^ Lindhout, Pim; Meijer, Dennis; Schotte, Theo; Hutten, Ronald C. B.; Visser, Richard G. F.; van Eck, Herman J. (2011). "Towards F1 Hybrid Seed Potato Breeding". Potato Research. Springer Science and Business Media LLC. 54 (4): 301–312. doi:10.1007/s11540-011-9196-z. ISSN 0014-3065. S2CID 39719359.
+^ "Chilean Tetraploid Cultivated Potato, Solanum tuberosum is Distinct from the Andean Populations: Microsatellite Data, Celeste M. Raker and David M. Spooner, University of Wisconsin, published in Crop Science, Vol.42, 2002" (PDF). Archived from the original (PDF) on 26 March 2009. Retrieved 16 July 2010.
+^ a b Anabalón Rodríguez, Leonardo; Morales Ulloa, Daniza; Solano Solis, Jaime (July 2007). "Molecular description and similarity relationships among native germplasm potatoes (Solanum tuberosum ssp. tuberosum L.) using morphological data and AFLP markers". Electronic Journal of Biotechnology. 10 (3): 436–443. doi:10.2225/vol10-issue3-fulltext-14. hdl:10925/320. Retrieved 6 December 2009.
+^ "Cultivated Potato Genebank". International Potato Center. Retrieved 15 June 2021.
+^ Visser, R.G.F.; Bachem, C.W.B.; Boer, J.M.; Bryan, G.J.; Chakrabati, S.K.; Feingold, S.; Gromadka, R.; Ham, R.C.H.J.; Huang, S.; Jacobs, J.M.E.; Kuznetsov, B.; Melo, P.E.; Milbourne, D.; Orjeda, G.; Sagredo, B.; Tang, X. (2009). "Sequencing the Potato Genome: Outline and First Results to Come from the Elucidation of the Sequence of the World's Third Most Important Food Crop". American Journal of Potato Research. 86 (6): 417–29. doi:10.1007/s12230-009-9097-8.
+^ Story is reprinted (with editorial adaptations by ScienceDaily staff) from materials provided by University of Wisconsin–Madison (4 February 2008). "Using DNA, Scientists Hunt For The Roots Of The Modern Potato". ScienceDaily (with information from a report originally appearing in the American Journal of Botany). Retrieved 27 August 2011.
+^ a b c Nowicki, Marcin; Foolad, Majid R.; Nowakowska, Marzena; Kozik, Elzbieta U.;
+et al. (17 August 2011). "Potato and tomato late blight caused by Phytophthora infestans: An overview of pathology and resistance breeding". Plant Disease. American Phytopathological Society (APS). 96 (1): 4–17. doi:10.1094/PDIS-05-11-0458. PMID 30731850.
+^ Song, J; Bradeen, J.M.; Naess, S.K.; Raasch, J.A.; Wielgus, S.M.; Haberlach, G.T.; Liu, J; Kuang, H; Austin-Phillips, S; Buell, C.R.; Helgeson, J.P.; Jiang, J (2003). "Gene RB cloned from Solanum bulbocastanum confers broad spectrum resistance to potato late blight". Proceedings of the National Academy of Sciences. 100 (16): 9128–9133. Bibcode:2003PNAS..100.9128S. doi:10.1073/pnas.1533501100. PMC 170883. PMID 12872003.
+^ John Roach (10 June 2002). "Saving the Potato in its Andean Birthplace". National Geographic. Retrieved 11 September 2009.
+^ Potato Council Ltd. "Potato Varieties". Potato Council website. Agriculture & Horticulture Development Board. Archived from the original on 8 September 2009. Retrieved 13 September 2009.
+^ "Potato Primer" (PDF). Cooks Illustrated. Archived from the original (PDF) on 17 December 2008. Retrieved 8 December 2008.
+^ "Potatoes for Chipping Grades and Standards | Agricultural Marketing Service". www.ams.usda.gov. Retrieved 27 August 2018.
+^ "Creamer Potato". recipetips.com. Retrieved 18 July 2008.
+^ "What is a new potato? New guidelines issued". BBC News. 12 August 2013. Retrieved 13 June 2021.
+^ "A look back at a Royal history". 25 January 2010. Retrieved 13 June 2021.
+^ "Europotato.org". Europotato.org. Archived from the original on 28 November 2009. Retrieved 16 July 2010.
+^ "So many varieties, so many choices". Wisconsin Potato and Vegetable Growers Association. 2017.
+^ Hirsch, C.N.; Hirsch, C.D.; Felcher, K; Coombs, J; Zarka, D; Van Deynze, A; De Jong, W; Veilleux, R.E.; Jansky, S; Bethke, P; Douches, D.S.; Buell, C.R. (2013). "Retrospective View of North American Potato (Solanum tuberosum L.) Breeding in the 20th and 21st Centuries". G3: Genes, Genomes, Genetics. 3 (6): 1003–13. doi:10.1534/g3.113.005595. PMC 3689798. PMID 23589519.
+^ Jemison, John M. Jr.; Sexton, Peter; Camire, Mary Ellen (2008). "Factors Influencing Consumer Preference of Fresh Potato Varieties in Maine". American Journal of Potato Research. 85 (2): 140. doi:10.1007/s12230-008-9017-3. S2CID 34297429.
+^ Mattoo, A.K.; Shukla, V; Fatima, T; Handa, A.K.; Yachha, S.K. (2010). Genetic engineering to enhance crop-based phytonutrients (nutraceuticals) to alleviate diet-related diseases. Advances in Experimental Medicine and Biology. Vol. 698. pp. 122–43. doi:10.1007/978-1-4419-7347-4_10. ISBN 978-1-4419-7346-7. PMID 21520708.
+^ "Genetically Engineered Organisms Public Issues Education Project/Am I eating GE potatoes?". Cornell University. Retrieved 16 December 2008.
+^ "GMO compass database". Archived from the original on 9 October 2014. Retrieved 6 October 2014.
+^ GM potatoes: BASF at work Archived 31 May 2010 at the Wayback Machine GMO Compass 5 March 2010. Retrieved 19 October 2011.
+^ Research in Germany, 17 November 2011. Business BASF applies for approval for another biotech potato Archived 2 June 2013 at the Wayback Machine
+^ Burger, Ludwig (31 October 2011) BASF applies for EU approval for Fortuna GM potato Archived 10 November 2015 at the Wayback Machine Reuters, Frankfurt. Retrieved 29 December 2011
+^ BASF stops GM crop development in Europe, Deutsche Welle, 17 January 2012
+^ Basf stop selling GM Product in Europe, New York Times, 16 January 2012
+^ Andrew Pollack for the New York Times. 7 November 2014. U.S.D.A. Approves Modified Potato. Next Up: French Fry Fans
+^ "Consumer acceptance of genetically modified potatoes" (PDF). American Journal of Potato Research. 2002. cited through Bnet. Archived from the original (PDF) on 1 November 2012. Retrieved 19 February 2012.
+^ Rosenthal, Elisabeth (24 July 2007). "A genetically modified potato, not for eating, is stirring some opposition in Europe". The New York Times. Retrieved 15 November 2008.
+^ Zierer, Wolfgang; Rüscher, David; Sonnewald, Uwe; Sonnewald, Sophia (17 June 2021). "Tuber and Tuberous Root Development". Annual Review of Plant Biology. Annual Reviews. 72 (1): 551–580. doi:10.1146/annurev-arplant-080720-084456. ISSN 1543-5008. PMID 33788583. S2CID 232482246.
+^ Martins-Farias 1976; Moseley 1975
+^ Harris, David R.; Hillman, Gordon C. (2014). Foraging and Farming: The Evolution of Plant Exploitation. Routledge. p. 496. ISBN 978-1-317-59829-9.
+^ Using DNA, scientists hunt for the roots of the modern potato, January 2008
+^ Nunn, Nathan; Qian, Nancy (2011). "The Potato's Contribution to Population and Urbanization: Evidence from a Historical Experiment" (PDF). Quarterly Journal of Economics. 126 (2): 593–650. doi:10.1093/qje/qjr009. PMID 22073408. S2CID 17631317. Archived from the original (PDF) on 5 July 2011. Retrieved 7 July 2012.
+^ a b c Sauer, Jonathan (2017). Historical Geography of Crop Plants : a Select Roster. Boca Raton, FL: CRC Press. p. 320. ISBN 978-0-203-75190-9. OCLC 1014382952. ISBN 9780849389016 ISBN 9781351440622 ISBN 9781351440615 ISBN 9781351440639 ISBN 9780367449872
+^ Theisen, K (1 January 2007). "History and overview". World Potato Atlas: Peru. International Potato Center. Archived from the original on 14 January 2008. Retrieved 10 September 2008.
+^ a b "Potato production in 2020 Region/World/Production Quantity/Crops from pick lists". UN Food and Agriculture Organization, Statistics Division (FAOSTAT). 2022. Retrieved 7 January 2022.
+^ World Food and Agriculture – Statistical Yearbook 2021. www.fao.org. 2021. doi:10.4060/cb4477en. ISBN 978-92-5-134332-6. S2CID 240163091. Retrieved 13 December 2021.{{cite book}}:
+CS1 maint: url-status (link)
+^ Beazell, JM; Schmidt, CR; Ivy, AC (January 1939). "On the Digestibility of Raw Potato Starch in Man". The Journal of Nutrition. 17 (1): 77–83. doi:10.1093/jn/17.1.77.
+^ "Nutrient contents of potato, baked, flesh and skin, without salt per 100 grams". Nutritiondata.com, Conde Nast for the US National Nutrient Database, SR-21. 2014. Retrieved 7 May 2017.
+^ a b Fernandes G, Velangi A, Wolever TM (2005). "Glycemic index of potatoes commonly consumed in North America". Journal of the American Dietetic Association. 105 (4): 557–62. doi:10.1016/j.jada.2005.01.003. PMID 15800557.
+^ List of what counts towards 5 A DAY portions of fruit and vegetables NHS 18 December 2009. Retrieved 29 March 2010
+^ "Nutrient data laboratory". United States Department of Agriculture. Retrieved 10 August 2016.
+^ "Tomato-like Fruit on Potato Plants". Iowa State University. Archived from the original on 16 July 2004. Retrieved 8 January 2009.
+^ "Greening of potatoes". Food Science Australia. 2005. Archived from the original on 25 November 2011. Retrieved 15 November 2008.
+^ Marggie Koerth-Baker (25 March 2013). "The case of the poison potato". boingboing.net. Archived from the original on 8 November 2015. Retrieved 8 November 2015.
+^ Glycoalkaloid and calystegine contents of eight potato cultivars J-Agric-Food-Chem. 2003 May 7; 51(10): 2964–73 Archived 11 February 2009 at the Wayback Machine
+^ Shaw, Ian (2005). Is it Safe to Eat?: Enjoy Eating and Minimize Food Risks. Berlin: Springer Science & Business Media. p. 129. ISBN 978-3-540-21286-7.
+^ "United States Potato Board -Seed Potatoes". Archived from the original on 25 August 2015. Retrieved 6 October 2014.
+^ "Seed & Ware Potatoes". www.sasa.gov.uk. Science & Advice for Scottish Agriculture. Archived from the original on 6 June 2018. Retrieved 27 February 2018.
+^ "Potatoes Home Garden". sfyl.ifas.ufl.edu. UF/IFAS Extension. Retrieved 14 August 2019.
+^ Jefferies, R. A.; Lawson, H. M. (1991). "A key for the stages of development of potato (Solanum tuberosum)". Annals of Applied Biology. 119 (2): 387–399. doi:10.1111/j.1744-7348.1991.tb04879.x. ISSN 0003-4746.
+^ "Growing Potatoes in the Home Garden" (PDF). Cornell University Extension Service. Retrieved 27 June 2010.
+^ Maude Brulard (29 April 2015). "Dutch saltwater potatoes offer hope for world's hungry". M.phys.org. Retrieved 11 October 2018.
+^ "NJF seminar No. 388 Integrated Control of Potato Late Blight in the Nordic and Baltic Countries. Copenhagen, Denmark, 29 November −1 December 2006" (PDF). Nordic Association of Agricultural Scientists. Retrieved 14 November 2008.[permanent dead link]
+^ "Organic Management of Late Blight of Potato and Tomato (Phytophthora infestans)". Michigan State University. Archived from the original on 2 July 2015. Retrieved 6 January 2012.
+^ "Metrics Used in EWG's Shopper's Guide to Pesticides Compiled from USDA and FDA Data" (PDF). Environmental Working Group. Archived from the original (PDF) on 11 May 2011. Retrieved 1 September 2010.
+^ a b c
+Oh, Soohyun; Choi, Doil (2022). "Receptor-mediated nonhost resistance in plants". Review. Essays in Biochemistry. Portland Press Limited (Biochemical Society). 66 (5): 435–445. doi:10.1042/EBC20210080. PMID 35388900. S2CID 247999992. ORCID 0000-0002-4366-3627.
+^ Kleinkopf G.E. and N. Olsen. 2003. Storage Management, in: Potato Production Systems, J.C. Stark and S.L. Love (eds), University of Idaho Agricultural Communications, 363–81.
+^ a b c Potato storage, value Preservation: Kohli, Pawanexh (2009). "Potato storage and value Preservation: The Basics" (PDF). CrossTree techno-visors. Archived from the original (PDF) on 6 August 2020. Retrieved 12 July 2009.
+^ a b Epp, Melanie (12 April 2021). "The Worry with CIPC". EuropeanSeed. Retrieved 12 June 2021.
+^ Cunnington, Adrian (May 2019). "Maleic hydrazide as a potato sprout suppressant" (PDF). AHDB Potatoes. Retrieved 8 June 2021.[permanent dead link]
+^ a b "FAOSTAT: Production-Crops, 2010 data". Food and Agriculture Organization of the United Nations. 2011. Archived from the original on 14 January 2013.
+^ Sarah Sinton (2011). "There's yet more gold in them thar "hills"!". Grower Magazine, The Government of New Zealand.
+^ "Phosphate and potatoes". Ballance. 2009. Archived from the original on 1 March 2012. Retrieved 19 February 2012.
+^ "International Year of the Potato: 2008, Asia and Oceania". Potato World. 2008. Archived from the original on 22 June 2012. Retrieved 19 February 2012.
+^ Workshop to Commemorate the International Year of the Potato. The Food and Agriculture Organization of the United Nations. 2008.
+^ Foley, Ramankutty;
+et al. (12 October 2011). "Solutions for a cultivated planet". Nature. 478 (7369): 337–42. Bibcode:2011Natur.478..337F. doi:10.1038/nature10452. PMID 21993620. S2CID 4346486.
+^ Ensminger, Audrey; Ensminger, M.E.; Konlande, James E. (1994). Foods & Nutrition Encyclopedia. CTC Press. p. 1104. ISBN 978-0-8493-8981-8.
+^ a b Haverkort, A. J.; Verhagen, A. (October 2008). "Climate Change and Its Repercussions for the Potato Supply Chain". Potato Research. 51 (3–4): 223–237. doi:10.1007/s11540-008-9107-0. S2CID 22794078.
+^ b:Cookbook:Potato
+^ Halliday, Les;
+et al. (2015), "Ensiling Potatoes" (PDF), Prince Edward Island Agriculture and Fisheries, retrieved 27 January 2018.
+^ Grant M. Campbell; Colin Webb; Stephen L. McKee (1997). Cereals: Novel Uses and Processes. Springer. p. 22. ISBN 978-0-306-45583-4.
+^ Jai Gopal; S.M. Paul Khurana (2006). Handbook of Potato Production, Improvement, and Postharvest. Haworth Press. p. 544. ISBN 978-1-56022-272-9.
+^ Atkins, Amy (16 March 2016). "Potato Parcel". Boise Weekly. Boise Weekly. Archived from the original on 8 August 2016. Retrieved 11 August 2016.
+^ Hayes, Monte (24 June 2007). "Peru Celebrates Potato Diversity". The Washington Post. Retrieved 16 July 2010.
+^ Timothy Johns: With bitter Herbs They Shall Eat it : Chemical ecology and the origins of human diet and medicine, The University of Arizona Press, Tucson 1990, ISBN 0-8165-1023-7, pp. 82–84
+^ "Pembrokeshire Early Potato gets protected European status". BBC News. 4 December 2013. Retrieved 11 October 2018.
+^ "Instant Potato, Chive and Bacon "Mugga Soup"". Retrieved 12 April 2022.
+^ von Bremzen, Anya; Welchman, John (1990). Please to the Table: The Russian Cookbook. New York: Workman Publishing. pp. 319–20. ISBN 978-0-89480-845-6.
+^ "D.E.L.A.C." delac.eu. Archived from the original on 5 March 2016. Retrieved 25 January 2015.
+^ Roden, Claudia (1990). The Food of Italy. London: Arrow Books. p. 72. ISBN 978-0-09-976220-1.
+^ "Frequently Asked Questions". Idaho Potato Commission. Retrieved 6 December 2013.
+^ a b Sivasankar, B. (2002). Food Processing and Preservation. PHI Learning Pvt. Ltd. pp. 175–77. ISBN 81-203-2086-7.
+^ Solomon, Charmaine (1996). Charmaine Solomon's Encyclopedia of Asian Food. Melbourne: William Heinemann Australia. p. 293. ISBN 978-0-85561-688-5.
+^ Berrin, Katherine & Larco Museum. The Spirit of Ancient Peru: Treasures from the Museo Arqueológico Rafael Larco Herrera. New York:Thames and Hudson, 1997.
+^ Steven Adams; Anna Gruetzner Robins (2000). Gendering Landscape Art. University of Manchester. p. 67. ISBN 978-0-7190-5628-4.
+^ van Tilborgh, Louis (2009). "The Potato Eaters by Vincent van Gogh". The Vincent van Gogh Gallery. Retrieved 11 September 2009.
+^ "Mr Potato Head". Museum of Childhood. V&A Museum of Childhood. Retrieved 11 September 2009.
+^ Dan Quayle's 'Potatoe' Incident – 1992
+^ Mickle, Paul. "1992: Gaffe with an 'e' at the end". Capitalcentury.com. Archived from the original on 15 July 2006. Retrieved 1 July 2006.
+^ Fass, Mark (29 August 2004). "How Do You Spell Regret? One Man's Take on It". The New York Times. Archived from the original on 23 March 2009. Retrieved 20 March 2009.
+General and cited sources
+Economist. "Llamas and mash", The Economist 28 February 2008 online
+Economist. "The potato: Spud we like", (leader) The Economist 28 February 2008 online
+Boomgaard, Peter (2003). "In the Shadow of Rice: Roots and Tubers in Indonesian History, 1500–1950". Agricultural History. 77 (4): 582–610. doi:10.1525/ah.2003.77.4.582. JSTOR 3744936.
+Hawkes, J.G. (1990). The Potato: Evolution, Biodiversity & Genetic Resources, Smithsonian Institution Press, Washington, DC
+Lang, James (1975). Notes of a Potato Watcher. Texas A&M University Agriculture series. ISBN 978-1-58544-138-9.
+Langer, William L (1975). "American Foods and Europe's Population Growth 1750–1850". Journal of Social History. 8 (2): 51–66. doi:10.1353/jsh/8.2.51. JSTOR 3786266.
+McNeill, William H. "How the Potato Changed the World's History." Social Research (1999) 66#1 pp. 67–83. ISSN 0037-783X Fulltext: Ebsco, by a leading historian
+McNeill William H (1948). "The Introduction of the Potato into Ireland". Journal of Modern History. 21 (3): 218–21. doi:10.1086/237272. JSTOR 1876068. S2CID 145099646.
+Ó Gráda, Cormac. Black '47 and Beyond: The Great Irish Famine in History, Economy, and Memory. (1999). 272 pp.
+Ó Gráda, Cormac, Richard Paping, and Eric Vanhaute, eds. When the Potato Failed: Causes and Effects of the Last European Subsistence Crisis, 1845–1850. (2007). 342 pp.  ISBN 978-2-503-51985-2. 15 essays by scholars looking at Ireland and all of Europe
+Reader, John. Propitious Esculent: The Potato in World History (2008), 315pp a standard scholarly history
+Salaman, Redcliffe N. (1989). The History and Social Influence of the Potato, Cambridge University Press (originally published in 1949; reprinted 1985 with new introduction and corrections by J.G. Hawkes).
+Stevenson, W.R., Loria, R., Franc, G.D., and Weingartner, D.P. (2001) Compendium of Potato Diseases, 2nd ed, Amer. Phytopathological Society, St. Paul, MN.
+Zuckerman, Larry. The Potato: How the Humble Spud Rescued the Western World. (1998). 304 pp. Douglas & McIntyre. ISBN 0-86547-578-4.
+Further reading
+Bohl, William H.; Johnson, Steven B., eds. (2010). Commercial Potato Production in North America: The Potato Association of America Handbook (PDF). Second Revision of American Potato Journal Supplement Volume 57 and USDA Handbook 267. The Potato Association of America. Archived from the original (PDF) on 16 August 2012.
+"'Humble' Potato Emerging as World's Next Food Source". column. Japan. Reuters. 11 May 2008. p. 20.
+Spooner, David M.; McLean, Karen; Ramsay, Gavin; Waugh, Robbie; Bryan, Glenn J. (October 2005). "A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping". Proceedings of the National Academy of Sciences of the United States of America (PNAS). National Academy of Sciences of the United States of America (NAS). 102 (41): 14694–14699. Bibcode:2005PNAS..10214694S. doi:10.1073/pnas.0507400102. PMC 1253605. PMID 16203994.
+The World Potato Atlas, released by the International Potato Center in 2006 and regularly updated. Includes current chapters of 15 countries:
+South America: (English and Spanish): Bolivia, Colombia, Ecuador, Peru
+Africa: Cameroon, Ethiopia, Kenya
+Eurasia: Armenia, Bangladesh, China, India, Myanmar, Nepal, Pakistan, Tajikistan
+38 others as brief "archive" chapters
+Further information links at Other Materials
+World Geography of the Potato at UGA.edu, released in 1993.
+Atlas of Wild Potatoes (2002), Systematic and Ecogeographic Studies on Crop Genepools 10, International Plant Genetic Resources Institute (IPGRI), ISBN 9789290435181
+Gauldie, Enid (1981). The Scottish Miller 1700–1900. Pub. John Donald. ISBN 0-85976-067-7.
+External links
+Solanum tuberosum (potato, papas): life cycle, tuber anatomy at GeoChemBio Archived 8 April 2022 at the Wayback Machine
+vtePotato cultivars
+List of potato cultivars
+Adirondack Blue
+Adirondack Red
+Agata
+Almond
+Alturas
+Amandine
+Amflora
+Anya
+Atlantic
+Austrian Crescent
+Bamberg
+Belle de Fontenay
+Bintje
+Black Champion
+Bloomer
+British Queen
+Butte
+Champion
+Désirée
+Gala
+Golden Wonder
+Home Guard
+International Kidney
+Irish Lumper
+Irish White
+Kennebec
+Kerr's Pink
+King Edward
+Kipfler
+Laura
+Lenape
+Marcy
+Marfona
+Maris Piper
+Megachip
+Melody
+Mizen
+Pike
+Pink Fir Apple
+Ranger Russet
+Ratte
+Red Gold
+Red La Soda
+Red Norland
+Red Pontiac
+Rooster
+Russet Burbank
+Russian blue
+Shetland Black
+Skerry Champion
+Stobrawa
+Superior
+Ulster Emblem
+Umatilla Russet
+Villetta Rose
+Vitelotte
+Vivaldi
+Yellow Finn
+Yukon Gold
+Creamer potato
+Fingerling potato
+Russet potato
+Potato at Wikipedia's sister projects:Definitions from WiktionaryMedia from CommonsRecipes from WikibooksTaxa from WikispeciesData from Wikidata
+vteLists of countries by agricultural output rankingsCereals
+Barley
+Buckwheat
+Corn/Maize
+Millet
+Oat
+Rice
+Rye
+Sorghum
+Triticale
+Wheat
+exports
+Fruit
+Apple
+Apricot
+Avocado
+Banana
+Cherry
+Citrus
+Orange
+Coconut
+Cucumber
+Eggplant
+Grape
+Lemon
+Lime
+Mango
+Papaya
+Pear
+Pineapple
+Plum
+Raspberry
+Tomato
+Vegetables
+Artichoke
+Carrot
+Garlic
+Onion
+Potato
+Rapeseed
+Soybean
+Turnip
+Other
+Cacao
+Cassava
+Coffee
+Cotton
+Fish
+Milk
+Palm oil
+Sugar beet
+Sugar cane
+Sunflower seed
+Tea
+Tobacco
+Wine
+Related
+Irrigated land
+Land use
+Organic farmland
+List of international rankings
+Lists by country
+vteBioenergyBiofuels
+Alcohol fuel
+Algae fuel
+Bagasse
+Babassu oil
+Biobutanol
+Biodiesel
+Biogas
+Biogasoline
+Bioliquids
+Biomass
+Corn stover
+Ethanol
+cellulosic
+mixtures
+Methanol
+Stover
+Corn stover
+Straw
+Cooking oil
+Vegetable oil fuel
+Water hyacinth
+Wood gas
+Energy fromfoodstock
+Barley
+Cassava
+Coconut oil
+Grape
+Hemp
+Maize
+Oat
+Palm oil
+Potato
+Rapeseed
+Rice
+Sorghum bicolor
+Soybean
+Sugarcane
+Sugar beet
+Sunflower
+Wheat
+Yam
+Camelina sativa
+Non-foodenergy crops
+Arundo
+Big bluestem
+Camelina
+Chinese tallow
+Duckweed
+Jatropha curcas
+Millettia pinnata
+Miscanthus giganteus
+Switchgrass
+Salicornia
+Wood fuel
+Technology
+BECCS
+Bioconversion
+Biomass heating systems
+Biorefinery
+Fischer–Tropsch process
+Industrial biotechnology
+Pellets
+mill
+stove
+Sabatier reaction
+Thermal depolymerization
+Concepts
+Agflation
+Cellulosic ethanol commercialization
+Energy content of biofuel
+Energy crop
+Energy forestry
+EROEI
+Food vs. fuel
+Issues
+Sustainable biofuel
+Taxon identifiers
+Wikidata: Q10998
+Wikispecies: Solanum tuberosum
+AoFP: 1625
+APA: 3576
+APDB: 119814
+APNI: 70827
+BioLib: 40766
+Calflora: 9239
+CoL: 4Y4K6
+Ecocrop: 1971
+EoL: 47134908
+EPPO: SOLTU
+EUNIS: 184915
+FloraBase: 7040
+FoC: 200020608
+GBIF: 2930262
+GRIN: 103137
+iNaturalist: 53858
+IPNI: 821337-1
+IRMNG: 10202886
+ISC: 50561
+ITIS: 505272
+MichiganFlora: 2716
+MoBotPF: 287175
+NatureServe: 2.138605
+NBN: NBNSYS0000004042
+NCBI: 4113
+NZOR: 3f63158a-1211-45ba-a8de-d240f3893e10
+NZPCN: 2778
+Open Tree of Life: 494835
+PFI: 4712
+Plant List: tro-29600334
+PLANTS: SOTU
+Plazi: 13CCB259-80FC-E97D-A76C-C671405BF9E4
+POWO: urn:lsid:ipni.org:names:821337-1
+SANBI: 2853-91
+Tropicos: 29600334
+uBio: 476069
+VASCAN: 9387
+WFO: wfo-0001031908
+Authority control National libraries
+Germany
+Israel
+United States
+Czech Republic
+Other
+Historical Dictionary of Switzerland
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Potato&oldid=1127616191"
+Categories: PotatoesCrops originating from BoliviaCrops originating from indigenous AmericansCrops originating from PeruCrops originating from South AmericaCuisine of Northern IrelandEdible SolanaceaeFlora of the AndesIrish cuisinePlants described in 1753Root vegetablesSolanumStaple foodsStoloniferous plantsTubersHidden categories: CS1 Spanish-language sources (es)Webarchive template wayback linksCS1 maint: url-statusAll articles with dead external linksArticles with dead external links from May 2020Articles with permanently dead external linksArticles with dead external links from September 2021Articles with short descriptionShort description is different from WikidataWikipedia pages semi-protected against vandalismUse dmy dates from October 2018Articles with 'species' microformatsArticles containing potentially dated statements from 2014All articles containing potentially dated statementsArticles containing potentially dated statements from 2018Articles containing Spanish-language textArticles containing Taino-language textArticles containing Quechua-language textArticles containing Latin-language textWikipedia articles needing clarification from December 2022All articles with unsourced statementsArticles with unsourced statements from October 2022Articles containing Chinese-language textPages using Sister project links with hidden wikidataTaxonbars with 35–39 taxon IDsArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with NKC identifiersArticles with HDS identifiers
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+ArticleTalk
+English
+Views
+ReadView sourceView history
+More
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia CommonsWikispecies
+Languages
+AfrikaansAlemannischአማርኛÆngliscАԥсшәаالعربيةAragonésঅসমীয়াAsturianuAtikamekwअवधीAvañe'ẽAzərbaycancaتۆرکجهBasa BaliবাংলাBân-lâm-gúBasa BanyumasanБашҡортсаБеларускаяБеларуская (тарашкевіца)Bikol CentralБългарскиBosanskiBrezhonegБуряадCatalàЧӑвашлаCebuanoČeštinaCorsuCymraegDanskDavvisámegiellaDeutschDolnoserbskiEestiΕλληνικάEmiliàn e rumagnòlЭрзяньEspañolEsperantoEuskaraفارسیFrançaisFryskFulfuldeGaeilgeGaelgGalegoГӀалгӀай贛語ગુજરાતીगोंयची कोंकणी / Gõychi Konknni한국어HausaՀայերենHornjoserbsceHrvatskiBahasa HulontaloIdoIlokanoBahasa IndonesiaInterlinguaИронÍslenskaItalianoעבריתJawaKabɩyɛಕನ್ನಡKapampanganქართულიҚазақшаKiswahiliКомиKongoKreyòl ayisyenKriyòl gwiyannenKurdîКыргызчаLatinaLatviešuLëtzebuergeschLietuviųLigureLimburgsLingua Franca NovaLivvinkarjalaLombardMagyarМакедонскиMalagasyമലയാളംმარგალურიمصرىဘာသာ မန်مازِرونیBahasa MelayuMinangkabau閩東語 / Mìng-dĕ̤ng-ngṳ̄Монголမြန်မာဘာသာNāhuatlNederlandsNedersaksiesनेपालीनेपाल भाषा日本語NapulitanoНохчийнNordfriiskNorsk bokmålNorsk nynorskOccitanOʻzbekcha/ўзбекчаPälzischپنجابیپښتوPatoisПерем комиPicardPolskiPortuguêsRomânăRuna SimiРусиньскыйРусскийСаха тылаसंस्कृतम्ᱥᱟᱱᱛᱟᱲᱤSarduScotsSimple EnglishسنڌيSlovenčinaSlovenščinaŚlůnskiکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiSvenskaTagalogதமிழ்Татарча/tatarçaతెలుగుไทยТоҷикӣLea faka-TongaತುಳುTürkçeTürkmençeTyapТыва дылУкраїнськаاردوئۇيغۇرچە / UyghurcheVepsän kel’Tiếng ViệtWest-VlamsWinaray吴语ייִדיש粵語Žemaitėška中文
+Edit links
+This page was last edited on 15 December 2022, at 18:44 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
