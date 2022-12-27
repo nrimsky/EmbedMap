@@ -65,7 +65,7 @@
         .merge(points)
         .transition()
         .duration(tt)
-        .attr("r", 10)
+        .attr("r", 15)
         .attr("stroke", function (d) {
           return d3.color(color(d.id)).darker(3);
         })
@@ -85,6 +85,7 @@
         .append("text")
         .attr("opacity", 0)
         .attr("class", "label")
+        .style("cursor", "pointer")
         .text(function (d) {
           return d.name;
         })
@@ -93,6 +94,9 @@
         })
         .attr("y", function (d) {
           return d.projected.y;
+        })
+        .on("click", function (d) {
+          window.location.href = d.link;
         })
         .merge(labels)
         .transition()
