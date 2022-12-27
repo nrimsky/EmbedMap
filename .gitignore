@@ -3,5 +3,5 @@ __pycache__
 venv
 data
 embeddings
-viz/embeddings.json
+viz
 .vscode

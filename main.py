@@ -96,13 +96,15 @@ def run(data_dir="test_data", embedding_dir="test_embeddings", viz_dir="example_
     data = [(f"{data_dir}/{n}", f"{embedding_dir}/{n}")
             for n in os.listdir(data_dir)]
     get_save_embeddings(data)
-    make_viz_json(embedding_dir=embedding_dir, viz_dir=viz_dir)
+    make_viz(embedding_dir=embedding_dir, viz_dir=viz_dir)
 
 
-def make_viz_json(embedding_dir="test_embeddings", viz_dir="example_viz"):
+def make_viz(embedding_dir="test_embeddings", viz_dir="example_viz"):
     """
     Create a JSON with all the embeddings mapped to the original filenames
     """
+    if not os.path.exists(viz_dir):
+        os.makedirs(viz_dir)
     data = {"embeddings": []}
     for f in os.listdir(embedding_dir):
         with open(f"{embedding_dir}/"+f, "r") as ef:
@@ -114,8 +116,12 @@ def make_viz_json(embedding_dir="test_embeddings", viz_dir="example_viz"):
                 "name": f.split(".")[0].replace("_", " "),
                 "embedding": proj_embed
             })
-    with open(f"{viz_dir}/embeddings.json", "w") as jsonfile:
-        json.dump(data, jsonfile)
+    json_str = f"var data = {json.dumps(data)};\n"
+    with open("index.html", "r") as htmlfile:
+        html = htmlfile.read()
+        html = html.replace("var data;", json_str)
+        with open(f"{viz_dir}/index.html", "w") as outfile:
+            outfile.write(html)
 
 
 def gen_site_map(urls: List[str], titles: List[str], download_dir="data", embed_dir="embeddings", viz_dir="viz"):
