@@ -22,13 +22,13 @@
       return d.id;
     };
     var startAngle = Math.PI / 4;
+    d3.select("svg").call(d3.zoom().on("zoom", zoomed).scaleExtent([0.5, 5]));
     var svg = d3
       .select("svg")
       .call(
         d3.drag().on("drag", dragged).on("start", dragStart).on("end", dragEnd)
       )
       .append("g");
-    d3.select("svg").call(d3.zoom().on("zoom", zoomed).scaleExtent([0.5, 5]));
     var color = d3.scaleOrdinal(d3.schemeCategory20);
     var mx, my, mouseX, mouseY;
     var scatter = [];
@@ -166,9 +166,7 @@
       var data = point3d(scatter);
       processData(data, 0);
     }
-
-    d3.selectAll("button").on("click", init);
-
+    
     init();
   </script>
 </body>
