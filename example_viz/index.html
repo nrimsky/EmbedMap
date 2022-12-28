@@ -23,16 +23,26 @@
     };
     var startAngle = Math.PI / 4;
 
+    var svg = d3.select("svg");
+
+    var rect = svg
+      .append("rect")
+      .attr("x", 0)
+      .attr("y", 0)
+      .attr("width", width)
+      .attr("height", height)
+      .style("fill", "white");
+
+    d3.select("rect")
+      .call(d3.zoom().on("zoom", zoomed).scaleExtent([0.5, 5]));
+
     var svg = d3
       .select("svg")
-      .on("touchstart", touchStart)
-      .on("touchmove", touchMove)
-      .on("touchend", touchEnd)
       .call(
         d3.drag().on("drag", dragged).on("start", dragStart).on("end", dragEnd)
       )
-      .call(d3.zoom().on("zoom", zoomed).scaleExtent([0.5, 5]))
       .append("g");
+
     var color = d3.scaleOrdinal(d3.schemeCategory20);
     var mx, my, mouseX, mouseY;
     var scatter = [];
@@ -164,35 +174,8 @@
       mouseY = d3.event.y - my + mouseY;
     }
 
-    var distance = 0;
-    var startDistance = 0;
-
-    function touchStart() {
-      var touches = d3.event.touches;
-      if (touches.length < 2) return; 
-      var dx = touches[0][0] - touches[1][0];
-      var dy = touches[0][1] - touches[1][1];
-      startDistance = Math.sqrt(dx * dx + dy * dy);
-    }
-
-    function touchMove() {
-      var touches = d3.event.touches;
-      if (touches.length < 2) return;
-      var dx = touches[0][0] - touches[1][0];
-      var dy = touches[0][1] - touches[1][1];
-      distance = Math.sqrt(dx * dx + dy * dy);
-      var zoomLevel = distance / startDistance;
-      point3d.scale(zoomLevel * scale);
-      processData(point3d(scatter), 0);
-    }
-
-    function touchEnd() {
-      distance = 0;
-      startDistance = 0;
-      processData(point3d(scatter), 1000);
-    }
-
     function zoomed() {
+      // console.log(d3.event.sourceEvent);
       var newScale = d3.event.transform.k;
       point3d.scale(newScale * scale);
       var data = point3d(scatter);
