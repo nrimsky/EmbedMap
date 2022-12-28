@@ -182,14 +182,11 @@
       var dy = touches[0][1] - touches[1][1];
       distance = Math.sqrt(dx * dx + dy * dy);
       var zoomLevel = distance / startDistance;
-      scale *= zoomLevel;
-      point3d.scale(scale);
+      point3d.scale(zoomLevel * scale);
       processData(point3d(scatter), 0);
     }
 
     function touchEnd() {
-      var touches = d3.event.touches;
-      if (touches.length < 2) return;
       distance = 0;
       startDistance = 0;
       processData(point3d(scatter), 1000);
